@@ -1,0 +1,8169 @@
+{
+  "metadata": {
+    "fuente": "Goethe-Zertifikat A1 – Start Deutsch 1 Wortliste",
+    "version": "VS_02_280312",
+    "nivel": "A1",
+    "total": 543,
+    "categorias": [
+      "zahlen",
+      "wochentag",
+      "tageszeit",
+      "zeitmass",
+      "monat",
+      "jahreszeit",
+      "farbe",
+      "himmelsrichtung",
+      "mass",
+      "verbo",
+      "sustantivo",
+      "adjektiv",
+      "adverb",
+      "praposicion",
+      "konjunktion",
+      "fragewort",
+      "pronomen",
+      "partikel",
+      "frase"
+    ]
+  },
+  "palabras": [
+    {
+      "palabra": "halb",
+      "traduccion": "medio/a / la mitad",
+      "categoria": "fraktion",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "ein halbes Kilo Tomaten, bitte.",
+          "es": "Medio kilo de tomates, por favor."
+        },
+        {
+          "de": "Es ist halb drei.",
+          "es": "Son las dos y media."
+        },
+        {
+          "de": "Ich habe eine halbe Stunde Zeit.",
+          "es": "Tengo media hora."
+        }
+      ],
+      "id": 1
+    },
+    {
+      "palabra": "das Viertel",
+      "traduccion": "el cuarto / el barrio",
+      "categoria": "fraktion",
+      "nivel": "A1",
+      "plural": "Viertel",
+      "ejemplos": [
+        {
+          "de": "Viertel nach drei.",
+          "es": "Las tres y cuarto."
+        },
+        {
+          "de": "Viertel vor acht.",
+          "es": "Las ocho menos cuarto."
+        },
+        {
+          "de": "Ein Viertel der Klasse fehlt.",
+          "es": "Un cuarto de la clase falta."
+        }
+      ],
+      "id": 2
+    },
+    {
+      "id": 3,
+      "palabra": "der Montag",
+      "traduccion": "el lunes",
+      "categoria": "wochentag",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Am Montag beginnt der Kurs.",
+          "es": "El lunes empieza el curso."
+        },
+        {
+          "de": "Jeden Montag gehe ich schwimmen.",
+          "es": "Cada lunes voy a nadar."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "palabra": "der Dienstag",
+      "traduccion": "el martes",
+      "categoria": "wochentag",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Am Dienstag habe ich einen Termin.",
+          "es": "El martes tengo una cita."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "palabra": "der Mittwoch",
+      "traduccion": "el miércoles",
+      "categoria": "wochentag",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Mittwoch gehen wir ins Kino.",
+          "es": "El miércoles vamos al cine."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "palabra": "der Donnerstag",
+      "traduccion": "el jueves",
+      "categoria": "wochentag",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Am Donnerstag ist die Prüfung.",
+          "es": "El jueves es el examen."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "palabra": "der Freitag",
+      "traduccion": "el viernes",
+      "categoria": "wochentag",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Freitag ist mein letzter Arbeitstag.",
+          "es": "El viernes es mi último día de trabajo."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "palabra": "der Samstag",
+      "traduccion": "el sábado",
+      "categoria": "wochentag",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Am Samstag schläft er lange.",
+          "es": "El sábado duerme hasta tarde."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "palabra": "der Sonnabend",
+      "traduccion": "el sábado (norte de Alemania)",
+      "categoria": "wochentag",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Der Laden ist Sonnabend geschlossen.",
+          "es": "La tienda está cerrada el sábado."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "palabra": "der Sonntag",
+      "traduccion": "el domingo",
+      "categoria": "wochentag",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Am Sonntag frühstücke ich lange.",
+          "es": "El domingo desayuno tranquilo."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "palabra": "das Wochenende",
+      "traduccion": "el fin de semana",
+      "categoria": "wochentag",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Am Wochenende fahren wir ans Meer.",
+          "es": "El fin de semana vamos al mar."
+        },
+        {
+          "de": "Was machst du am Wochenende?",
+          "es": "¿Qué haces el fin de semana?"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "palabra": "der Morgen",
+      "traduccion": "la mañana",
+      "categoria": "tageszeit",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Guten Morgen!",
+          "es": "¡Buenos días!"
+        },
+        {
+          "de": "Ich trinke morgens Kaffee.",
+          "es": "Por las mañanas tomo café."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "palabra": "der Vormittag",
+      "traduccion": "la mañana (antes del mediodía)",
+      "categoria": "tageszeit",
+      "nivel": "A1",
+      "plural": "Vormittage",
+      "ejemplos": [
+        {
+          "de": "Am Vormittag habe ich Kurs.",
+          "es": "Por la mañana tengo clase."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "palabra": "der Mittag",
+      "traduccion": "el mediodía",
+      "categoria": "tageszeit",
+      "nivel": "A1",
+      "plural": "Mittage",
+      "ejemplos": [
+        {
+          "de": "Um Mittag esse ich zu Hause.",
+          "es": "Al mediodía como en casa."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "palabra": "der Nachmittag",
+      "traduccion": "la tarde",
+      "categoria": "tageszeit",
+      "nivel": "A1",
+      "plural": "Nachmittage",
+      "ejemplos": [
+        {
+          "de": "Am Nachmittag gehe ich einkaufen.",
+          "es": "Por la tarde voy de compras."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "palabra": "der Abend",
+      "traduccion": "la tarde/noche",
+      "categoria": "tageszeit",
+      "nivel": "A1",
+      "plural": "Abende",
+      "ejemplos": [
+        {
+          "de": "Guten Abend!",
+          "es": "¡Buenas tardes/noches!"
+        },
+        {
+          "de": "Heute Abend gehen wir aus.",
+          "es": "Esta noche salimos."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "palabra": "die Nacht",
+      "traduccion": "la noche",
+      "categoria": "tageszeit",
+      "nivel": "A1",
+      "plural": "Nächte",
+      "ejemplos": [
+        {
+          "de": "Gute Nacht!",
+          "es": "¡Buenas noches!"
+        },
+        {
+          "de": "Ich schlafe acht Stunden pro Nacht.",
+          "es": "Duermo ocho horas por noche."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "palabra": "die Sekunde",
+      "traduccion": "el segundo",
+      "categoria": "zeitmass",
+      "nivel": "A1",
+      "plural": "Sekunden",
+      "ejemplos": [
+        {
+          "de": "Warte eine Sekunde!",
+          "es": "¡Espera un segundo!"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "palabra": "die Minute",
+      "traduccion": "el minuto",
+      "categoria": "zeitmass",
+      "nivel": "A1",
+      "plural": "Minuten",
+      "ejemplos": [
+        {
+          "de": "Der Bus kommt in fünf Minuten.",
+          "es": "El autobús llega en cinco minutos."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "palabra": "die Stunde",
+      "traduccion": "la hora",
+      "categoria": "zeitmass",
+      "nivel": "A1",
+      "plural": "Stunden",
+      "ejemplos": [
+        {
+          "de": "Der Film dauert zwei Stunden.",
+          "es": "La película dura dos horas."
+        },
+        {
+          "de": "Ich bin in einer Stunde zurück.",
+          "es": "Regreso en una hora."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "palabra": "der Tag",
+      "traduccion": "el día",
+      "categoria": "zeitmass",
+      "nivel": "A1",
+      "plural": "Tage",
+      "ejemplos": [
+        {
+          "de": "Heute ist ein schöner Tag.",
+          "es": "Hoy es un día bonito."
+        },
+        {
+          "de": "Guten Tag!",
+          "es": "¡Buenos días! / ¡Buenas tardes!"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "palabra": "die Woche",
+      "traduccion": "la semana",
+      "categoria": "zeitmass",
+      "nivel": "A1",
+      "plural": "Wochen",
+      "ejemplos": [
+        {
+          "de": "Ich lerne drei Mal pro Woche.",
+          "es": "Aprendo tres veces por semana."
+        },
+        {
+          "de": "Nächste Woche fange ich an.",
+          "es": "La próxima semana empiezo."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "palabra": "das Jahr",
+      "traduccion": "el año",
+      "categoria": "zeitmass",
+      "nivel": "A1",
+      "plural": "Jahre",
+      "ejemplos": [
+        {
+          "de": "Ich lebe seit drei Jahren in Köln.",
+          "es": "Vivo en Colonia desde hace tres años."
+        },
+        {
+          "de": "Ein gutes neues Jahr!",
+          "es": "¡Feliz año nuevo!"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "palabra": "der Januar",
+      "traduccion": "enero",
+      "categoria": "monat",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Im Januar ist es sehr kalt.",
+          "es": "En enero hace mucho frío."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "palabra": "der Februar",
+      "traduccion": "febrero",
+      "categoria": "monat",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Im Februar gibt es Karneval.",
+          "es": "En febrero hay carnaval."
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "palabra": "der März",
+      "traduccion": "marzo",
+      "categoria": "monat",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Der Frühling beginnt im März.",
+          "es": "La primavera empieza en marzo."
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "palabra": "der April",
+      "traduccion": "abril",
+      "categoria": "monat",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Im April regnet es oft.",
+          "es": "En abril llueve con frecuencia."
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "palabra": "der Mai",
+      "traduccion": "mayo",
+      "categoria": "monat",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Im Mai ist das Wetter schön.",
+          "es": "En mayo el tiempo es bonito."
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "palabra": "der Juni",
+      "traduccion": "junio",
+      "categoria": "monat",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Im Juni machen wir Urlaub.",
+          "es": "En junio nos vamos de vacaciones."
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "palabra": "der Juli",
+      "traduccion": "julio",
+      "categoria": "monat",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Im Juli ist es sehr heiß.",
+          "es": "En julio hace mucho calor."
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "palabra": "der August",
+      "traduccion": "agosto",
+      "categoria": "monat",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Im August sind alle im Urlaub.",
+          "es": "En agosto todos están de vacaciones."
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "palabra": "der September",
+      "traduccion": "septiembre",
+      "categoria": "monat",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Im September beginnt die Schule.",
+          "es": "En septiembre empieza la escuela."
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "palabra": "der Oktober",
+      "traduccion": "octubre",
+      "categoria": "monat",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Im Oktober wird es kühler.",
+          "es": "En octubre refresca."
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "palabra": "der November",
+      "traduccion": "noviembre",
+      "categoria": "monat",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Im November ist es oft grau.",
+          "es": "En noviembre suele estar gris."
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "palabra": "der Dezember",
+      "traduccion": "diciembre",
+      "categoria": "monat",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Im Dezember ist Weihnachten.",
+          "es": "En diciembre es Navidad."
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "palabra": "der Frühling",
+      "traduccion": "la primavera",
+      "categoria": "jahreszeit",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Im Frühling blühen die Blumen.",
+          "es": "En primavera florecen las flores."
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "palabra": "das Frühjahr",
+      "traduccion": "la primavera",
+      "categoria": "jahreszeit",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Im Frühjahr machen wir einen Ausflug.",
+          "es": "En primavera hacemos una excursión."
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "palabra": "der Sommer",
+      "traduccion": "el verano",
+      "categoria": "jahreszeit",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Im Sommer fahren wir ans Meer.",
+          "es": "En verano vamos al mar."
+        },
+        {
+          "de": "Der Sommer ist heiß.",
+          "es": "El verano es caluroso."
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "palabra": "der Herbst",
+      "traduccion": "el otoño",
+      "categoria": "jahreszeit",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Im Herbst fallen die Blätter.",
+          "es": "En otoño caen las hojas."
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "palabra": "der Winter",
+      "traduccion": "el invierno",
+      "categoria": "jahreszeit",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Im Winter schneit es oft.",
+          "es": "En invierno suele nevar."
+        },
+        {
+          "de": "Der Winter in Berlin ist kalt.",
+          "es": "El invierno en Berlín es frío."
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "palabra": "schwarz",
+      "traduccion": "negro/a",
+      "categoria": "farbe",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Er trägt ein schwarzes Hemd.",
+          "es": "Lleva una camisa negra."
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "palabra": "weiß",
+      "traduccion": "blanco/a",
+      "categoria": "farbe",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Das Papier ist weiß.",
+          "es": "El papel es blanco."
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "palabra": "grau",
+      "traduccion": "gris",
+      "categoria": "farbe",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Das Wetter ist heute grau.",
+          "es": "El tiempo está gris hoy."
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "palabra": "rot",
+      "traduccion": "rojo/a",
+      "categoria": "farbe",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Die Ampel ist rot.",
+          "es": "El semáforo está en rojo."
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "palabra": "blau",
+      "traduccion": "azul",
+      "categoria": "farbe",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Er hat blaue Augen.",
+          "es": "Tiene ojos azules."
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "palabra": "grün",
+      "traduccion": "verde",
+      "categoria": "farbe",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Die Ampel ist grün.",
+          "es": "El semáforo está en verde."
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "palabra": "gelb",
+      "traduccion": "amarillo/a",
+      "categoria": "farbe",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Die Banane ist gelb.",
+          "es": "El plátano es amarillo."
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "palabra": "braun",
+      "traduccion": "marrón",
+      "categoria": "farbe",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Er hat braune Haare.",
+          "es": "Tiene el pelo castaño."
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "palabra": "der Norden",
+      "traduccion": "el norte",
+      "categoria": "himmelsrichtung",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Berlin liegt im Norden von Deutschland.",
+          "es": "Berlín está en el norte de Alemania."
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "palabra": "der Süden",
+      "traduccion": "el sur",
+      "categoria": "himmelsrichtung",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "München liegt im Süden.",
+          "es": "Múnich está en el sur."
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "palabra": "der Westen",
+      "traduccion": "el oeste",
+      "categoria": "himmelsrichtung",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Die Sonne geht im Westen unter.",
+          "es": "El sol se pone por el oeste."
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "palabra": "der Osten",
+      "traduccion": "el este",
+      "categoria": "himmelsrichtung",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Die Sonne kommt aus dem Osten.",
+          "es": "El sol sale por el este."
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "palabra": "der Meter",
+      "traduccion": "el metro",
+      "categoria": "mass",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Das Zimmer ist fünf Meter groß.",
+          "es": "La habitación mide cinco metros."
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "palabra": "der Zentimeter",
+      "traduccion": "el centímetro",
+      "categoria": "mass",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ich bin 178 Zentimeter groß.",
+          "es": "Mido 178 centímetros."
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "palabra": "der Kilometer",
+      "traduccion": "el kilómetro",
+      "categoria": "mass",
+      "nivel": "A1",
+      "plural": "Kilometer",
+      "ejemplos": [
+        {
+          "de": "Von hier sind es 200 Kilometer.",
+          "es": "Desde aquí hay 200 kilómetros."
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "palabra": "der Quadratmeter",
+      "traduccion": "el metro cuadrado",
+      "categoria": "mass",
+      "nivel": "A1",
+      "plural": "Quadratmeter",
+      "ejemplos": [
+        {
+          "de": "Die Wohnung hat 60 Quadratmeter.",
+          "es": "El apartamento tiene 60 metros cuadrados."
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "palabra": "der Grad",
+      "traduccion": "el grado (temperatura)",
+      "categoria": "mass",
+      "nivel": "A1",
+      "plural": "Grad",
+      "ejemplos": [
+        {
+          "de": "Heute sind es 30 Grad.",
+          "es": "Hoy hay 30 grados."
+        },
+        {
+          "de": "Minus fünf Grad.",
+          "es": "Cinco grados bajo cero."
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "palabra": "das Prozent",
+      "traduccion": "el porcentaje",
+      "categoria": "mass",
+      "nivel": "A1",
+      "plural": "Prozent",
+      "ejemplos": [
+        {
+          "de": "Ich verstehe 80 Prozent.",
+          "es": "Entiendo el 80 por ciento."
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "palabra": "der Liter",
+      "traduccion": "el litro",
+      "categoria": "mass",
+      "nivel": "A1",
+      "plural": "Liter",
+      "ejemplos": [
+        {
+          "de": "Ein Liter Milch, bitte.",
+          "es": "Un litro de leche, por favor."
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "palabra": "das Gramm",
+      "traduccion": "el gramo",
+      "categoria": "mass",
+      "nivel": "A1",
+      "plural": "Gramm",
+      "ejemplos": [
+        {
+          "de": "Hundert Gramm Käse, bitte.",
+          "es": "Cien gramos de queso, por favor."
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "palabra": "das Pfund",
+      "traduccion": "la libra (500g)",
+      "categoria": "mass",
+      "nivel": "A1",
+      "plural": "Pfund",
+      "ejemplos": [
+        {
+          "de": "Ein Pfund Äpfel, bitte.",
+          "es": "Medio kilo de manzanas, por favor."
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "palabra": "das Kilo / Kilogramm",
+      "traduccion": "el kilo / kilogramo",
+      "categoria": "mass",
+      "nivel": "A1",
+      "plural": "Kilo",
+      "ejemplos": [
+        {
+          "de": "Zwei Kilo Kartoffeln, bitte.",
+          "es": "Dos kilos de patatas, por favor."
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "palabra": "der Euro",
+      "traduccion": "el euro",
+      "categoria": "mass",
+      "nivel": "A1",
+      "plural": "Euro",
+      "ejemplos": [
+        {
+          "de": "Das kostet fünf Euro.",
+          "es": "Eso cuesta cinco euros."
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "palabra": "der Cent",
+      "traduccion": "el céntimo",
+      "categoria": "mass",
+      "nivel": "A1",
+      "plural": "Cent",
+      "ejemplos": [
+        {
+          "de": "Das macht 50 Cent.",
+          "es": "Son 50 céntimos."
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "palabra": "ab",
+      "traduccion": "desde / a partir de",
+      "categoria": "praposicion",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ab morgen muss ich arbeiten.",
+          "es": "A partir de mañana debo trabajar."
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "palabra": "aber",
+      "traduccion": "pero / sin embargo",
+      "categoria": "konjunktion",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ich bin oft im Büro, aber nur für wenige Stunden.",
+          "es": "A menudo estoy en la oficina, pero solo unas pocas horas."
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "palabra": "abfahren",
+      "traduccion": "partir / salir (transporte)",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "du": "fährst ab",
+        "er/sie/es": "fährt ab"
+      },
+      "ejemplos": [
+        {
+          "de": "Wir fahren um zwölf Uhr ab.",
+          "es": "Salimos a las doce."
+        },
+        {
+          "de": "Vor der Abfahrt rufe ich an.",
+          "es": "Antes de la salida llamo."
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "palabra": "abgeben",
+      "traduccion": "entregar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "du": "gibst ab",
+        "er/sie/es": "gibt ab"
+      },
+      "ejemplos": [
+        {
+          "de": "Ich muss meine Schlüssel abgeben.",
+          "es": "Tengo que entregar mis llaves."
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "palabra": "abholen",
+      "traduccion": "recoger / ir a buscar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Wann kann ich den Schrank bei dir abholen?",
+          "es": "¿Cuándo puedo recoger el armario en tu casa?"
+        },
+        {
+          "de": "Wir müssen noch meinen Bruder abholen.",
+          "es": "Todavía tenemos que recoger a mi hermano."
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "palabra": "der Absender",
+      "traduccion": "el remitente",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Absender",
+      "ejemplos": [
+        {
+          "de": "Da ist ein Brief für dich ohne Absender.",
+          "es": "Hay una carta para ti sin remitente."
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "palabra": "Achtung!",
+      "traduccion": "¡Atención! / ¡Cuidado!",
+      "categoria": "frase",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Achtung! Das dürfen Sie nicht tun.",
+          "es": "¡Atención! No puede hacer eso."
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "palabra": "die Adresse",
+      "traduccion": "la dirección",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Adressen",
+      "ejemplos": [
+        {
+          "de": "Können Sie mir seine Adresse sagen?",
+          "es": "¿Me puede dar su dirección?"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "palabra": "all-",
+      "traduccion": "todo/a/os/as",
+      "categoria": "pronomen",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Alles Gute!",
+          "es": "¡Todo lo mejor!"
+        },
+        {
+          "de": "Sind alle da?",
+          "es": "¿Están todos?"
+        },
+        {
+          "de": "Das ist alles.",
+          "es": "Eso es todo."
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "palabra": "allein",
+      "traduccion": "solo/a",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Er kommt allein.",
+          "es": "Viene solo."
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "palabra": "also",
+      "traduccion": "entonces / por lo tanto / bueno",
+      "categoria": "konjunktion",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Also, es ist so: ...",
+          "es": "Bueno, es así: ..."
+        },
+        {
+          "de": "Er hat Zeit, also muss er uns helfen.",
+          "es": "Tiene tiempo, por lo tanto debe ayudarnos."
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "palabra": "alt",
+      "traduccion": "viejo/a / antiguo/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Wie alt sind Sie?",
+          "es": "¿Cuántos años tiene?"
+        },
+        {
+          "de": "Mein Auto ist schon sehr alt.",
+          "es": "Mi coche ya es muy viejo."
+        },
+        {
+          "de": "Köln ist eine alte Stadt.",
+          "es": "Colonia es una ciudad antigua."
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "palabra": "das Alter",
+      "traduccion": "la edad",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Alter: 26 Jahre.",
+          "es": "Edad: 26 años."
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "palabra": "an",
+      "traduccion": "en / a / al",
+      "categoria": "praposicion",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Wir treffen uns am Bahnhof.",
+          "es": "Nos encontramos en la estación."
+        },
+        {
+          "de": "Am nächsten Montag geht es leider nicht.",
+          "es": "El próximo lunes lamentablemente no puedo."
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "palabra": "anbieten",
+      "traduccion": "ofrecer",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Was darf ich dir anbieten?",
+          "es": "¿Qué puedo ofrecerte?"
+        },
+        {
+          "de": "Heute sind Sportschuhe im Angebot.",
+          "es": "Hoy hay zapatillas deportivas en oferta."
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "palabra": "ander-",
+      "traduccion": "otro/a",
+      "categoria": "pronomen",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Willst du diese Jacke? – Nein, ich möchte die andere.",
+          "es": "¿Quieres esta chaqueta? – No, quiero la otra."
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "palabra": "anfangen",
+      "traduccion": "empezar / comenzar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "du": "fängst an",
+        "er/sie/es": "fängt an"
+      },
+      "ejemplos": [
+        {
+          "de": "Der Unterricht fängt gleich an.",
+          "es": "La clase empieza enseguida."
+        },
+        {
+          "de": "Hier fängt die Bahnhofstraße an.",
+          "es": "Aquí empieza la Calle de la Estación."
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "palabra": "anklicken",
+      "traduccion": "hacer clic en",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Da musst du dieses Wort anklicken.",
+          "es": "Ahí tienes que hacer clic en esa palabra."
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "palabra": "ankommen",
+      "traduccion": "llegar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Wann kommt dieser Zug in Hamburg an?",
+          "es": "¿Cuándo llega este tren a Hamburgo?"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "palabra": "ankreuzen",
+      "traduccion": "marcar con una cruz",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Auf dem Formular müssen Sie an mehreren Stellen etwas ankreuzen.",
+          "es": "En el formulario debe marcar con una cruz en varios lugares."
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "palabra": "anmachen",
+      "traduccion": "encender / poner",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Mach bitte das Licht an!",
+          "es": "¡Enciende la luz, por favor!"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "palabra": "(sich) anmelden",
+      "traduccion": "registrarse / inscribirse",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Wo kann ich mich anmelden?",
+          "es": "¿Dónde puedo inscribirme?"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "palabra": "die Anrede",
+      "traduccion": "el saludo / el tratamiento",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Anreden",
+      "ejemplos": [
+        {
+          "de": "Schreiben Sie auch eine Anrede und einen Gruß.",
+          "es": "Escriba también un saludo y una despedida."
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "palabra": "anrufen",
+      "traduccion": "llamar por teléfono",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Kann man Sie anrufen?",
+          "es": "¿Se le puede llamar?"
+        },
+        {
+          "de": "Peter ruft kurz seine Freundin an.",
+          "es": "Peter llama un momento a su novia."
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "palabra": "der Anruf",
+      "traduccion": "la llamada telefónica",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Anrufe",
+      "ejemplos": [
+        {
+          "de": "Sie bekommt viele Anrufe auf ihrem Handy.",
+          "es": "Recibe muchas llamadas en su móvil."
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "palabra": "der Anrufbeantworter",
+      "traduccion": "el contestador automático",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Anrufbeantworter",
+      "ejemplos": [
+        {
+          "de": "Sprechen Sie bitte auf den Anrufbeantworter.",
+          "es": "Por favor, deje un mensaje en el contestador."
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "palabra": "antworten",
+      "traduccion": "contestar / responder",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Er antwortet nicht.",
+          "es": "Él no contesta."
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "palabra": "die Antwort",
+      "traduccion": "la respuesta",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Antworten",
+      "ejemplos": [
+        {
+          "de": "Er gibt leider keine Antwort.",
+          "es": "Lamentablemente no da ninguna respuesta."
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "palabra": "die Anzeige",
+      "traduccion": "el anuncio",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Anzeigen",
+      "ejemplos": [
+        {
+          "de": "Ich habe Ihre Anzeige in der Zeitung gelesen.",
+          "es": "He leído su anuncio en el periódico."
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "palabra": "(sich) anziehen",
+      "traduccion": "vestirse / ponerse (ropa)",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Ich muss mich noch anziehen.",
+          "es": "Todavía tengo que vestirme."
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "palabra": "das Apartment",
+      "traduccion": "el apartamento",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Apartments",
+      "ejemplos": [
+        {
+          "de": "Wir haben ein Apartment gemietet.",
+          "es": "Hemos alquilado un apartamento."
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "palabra": "der Apfel",
+      "traduccion": "la manzana",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Äpfel",
+      "ejemplos": [
+        {
+          "de": "Ein Pfund Äpfel bitte.",
+          "es": "Medio kilo de manzanas, por favor."
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "palabra": "der Appetit",
+      "traduccion": "el apetito",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Guten Appetit!",
+          "es": "¡Buen provecho!"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "palabra": "arbeiten",
+      "traduccion": "trabajar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Wo arbeiten Sie?",
+          "es": "¿Dónde trabaja usted?"
+        },
+        {
+          "de": "Mein Bruder sucht Arbeit.",
+          "es": "Mi hermano busca trabajo."
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "palabra": "arbeitslos",
+      "traduccion": "desempleado/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Es gibt viele Leute, die schon lange arbeitslos sind.",
+          "es": "Hay mucha gente que lleva tiempo desempleada."
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "palabra": "der Arbeitsplatz",
+      "traduccion": "el puesto de trabajo",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Arbeitsplätze",
+      "ejemplos": [
+        {
+          "de": "An meinem Arbeitsplatz fehlt ein Drucker.",
+          "es": "En mi puesto de trabajo falta una impresora."
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "palabra": "der Arm",
+      "traduccion": "el brazo",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Arme",
+      "ejemplos": [
+        {
+          "de": "Mein Arm tut weh.",
+          "es": "Me duele el brazo."
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "palabra": "der Arzt",
+      "traduccion": "el médico",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Ärzte",
+      "ejemplos": [
+        {
+          "de": "Morgen habe ich einen Termin bei meiner Ärztin.",
+          "es": "Mañana tengo cita con mi médica."
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "palabra": "auch",
+      "traduccion": "también",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ich bin auch Spanier.",
+          "es": "Yo también soy español."
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "palabra": "auf",
+      "traduccion": "en (lugar) / sobre / abierto/a",
+      "categoria": "praposicion",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Die Kinder spielen auf der Straße.",
+          "es": "Los niños juegan en la calle."
+        },
+        {
+          "de": "Auf Wiedersehen.",
+          "es": "Adiós / Hasta la vista."
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "palabra": "aufhören",
+      "traduccion": "terminar / parar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Der Kurs hört in einer Woche auf.",
+          "es": "El curso termina en una semana."
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "palabra": "aufstehen",
+      "traduccion": "levantarse",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Ich muss immer um vier Uhr aufstehen.",
+          "es": "Siempre tengo que levantarme a las cuatro."
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "palabra": "der Aufzug",
+      "traduccion": "el ascensor",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Aufzüge",
+      "ejemplos": [
+        {
+          "de": "In diesem Haus gibt es keinen Aufzug.",
+          "es": "En este edificio no hay ascensor."
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "palabra": "das Auge",
+      "traduccion": "el ojo",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Augen",
+      "ejemplos": [
+        {
+          "de": "Er hat blaue Augen.",
+          "es": "Tiene ojos azules."
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "palabra": "aus",
+      "traduccion": "de / desde (origen) / apagado",
+      "categoria": "praposicion",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Er kommt aus Brasilien.",
+          "es": "Viene de Brasil."
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "palabra": "der Ausflug",
+      "traduccion": "la excursión",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Ausflüge",
+      "ejemplos": [
+        {
+          "de": "Morgen machen wir einen Ausflug nach Heidelberg.",
+          "es": "Mañana hacemos una excursión a Heidelberg."
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "palabra": "ausfüllen",
+      "traduccion": "rellenar (un formulario)",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Füllen Sie bitte dieses Formular aus.",
+          "es": "Por favor, rellene este formulario."
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "palabra": "der Ausgang",
+      "traduccion": "la salida",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Ausgänge",
+      "ejemplos": [
+        {
+          "de": "Wo ist der Ausgang?",
+          "es": "¿Dónde está la salida?"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "palabra": "die Auskunft",
+      "traduccion": "la información / las referencias",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Auskünfte",
+      "ejemplos": [
+        {
+          "de": "Können Sie mir eine Auskunft geben?",
+          "es": "¿Puede darme información?"
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "palabra": "das Ausland",
+      "traduccion": "el extranjero",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Fahren Sie ins Ausland?",
+          "es": "¿Viaja al extranjero?"
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "palabra": "der Ausländer",
+      "traduccion": "el extranjero (persona)",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Ausländer",
+      "ejemplos": [
+        {
+          "de": "Sind Sie Ausländerin?",
+          "es": "¿Es usted extranjera?"
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "palabra": "ausländisch",
+      "traduccion": "extranjero/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Leider habe ich nur ausländisches Geld.",
+          "es": "Desgraciadamente solo tengo dinero extranjero."
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "palabra": "die Aussage",
+      "traduccion": "la afirmación / el enunciado",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Aussagen",
+      "ejemplos": [
+        {
+          "de": "Ist die Aussage richtig oder falsch?",
+          "es": "¿Es la afirmación correcta o incorrecta?"
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "palabra": "aussehen",
+      "traduccion": "parecer / tener aspecto",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "du": "siehst aus",
+        "er/sie/es": "sieht aus"
+      },
+      "ejemplos": [
+        {
+          "de": "Das sieht schön aus.",
+          "es": "Eso tiene buen aspecto."
+        },
+        {
+          "de": "Sie sehen aber nicht so alt aus.",
+          "es": "Pero no aparenta ser tan mayor."
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "palabra": "aussteigen",
+      "traduccion": "bajarse / apearse",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Wo muss ich aussteigen?",
+          "es": "¿Dónde tengo que bajarme?"
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "palabra": "der Ausweis",
+      "traduccion": "el documento de identidad",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Ausweise",
+      "ejemplos": [
+        {
+          "de": "Hier ist mein Ausweis.",
+          "es": "Aquí está mi documento de identidad."
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "palabra": "(sich) ausziehen",
+      "traduccion": "desvestirse / quitarse (ropa)",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Zieh die Schuhe aus, bitte!",
+          "es": "¡Quítate los zapatos, por favor!"
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "palabra": "das Auto",
+      "traduccion": "el coche / el carro",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Autos",
+      "ejemplos": [
+        {
+          "de": "Er kommt mit dem Auto.",
+          "es": "Viene en coche."
+        },
+        {
+          "de": "Hast du ein Auto?",
+          "es": "¿Tienes coche?"
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "palabra": "die Autobahn",
+      "traduccion": "la autopista",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Autobahnen",
+      "ejemplos": [
+        {
+          "de": "Wo geht's hier bitte zur Autobahn?",
+          "es": "¿Por dónde se va a la autopista?"
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "palabra": "der Automat",
+      "traduccion": "la máquina automática / el cajero",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Automaten",
+      "ejemplos": [
+        {
+          "de": "Die Fahrkarten gibt es nur am Automaten.",
+          "es": "Los billetes solo se venden en la máquina."
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "palabra": "das Baby",
+      "traduccion": "el bebé",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Babys",
+      "ejemplos": [
+        {
+          "de": "Mein Kind ist noch ein Baby.",
+          "es": "Mi hijo todavía es un bebé."
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "palabra": "die Bäckerei",
+      "traduccion": "la panadería",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Bäckereien",
+      "ejemplos": [
+        {
+          "de": "Ich geh mal schnell zur Bäckerei.",
+          "es": "Voy un momento a la panadería."
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "palabra": "das Bad",
+      "traduccion": "el baño / el cuarto de baño",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Bäder",
+      "ejemplos": [
+        {
+          "de": "Wir haben kein großes Bad.",
+          "es": "No tenemos un baño grande."
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "palabra": "baden",
+      "traduccion": "bañarse",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Ich bade nicht so gern, ich dusche lieber.",
+          "es": "No me gusta mucho bañarme, prefiero ducharme."
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "palabra": "die Bahn",
+      "traduccion": "el tren / el transporte público",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Bahnen",
+      "ejemplos": [
+        {
+          "de": "Wir fahren lieber mit der Bahn.",
+          "es": "Preferimos ir en tren."
+        },
+        {
+          "de": "Ich nehme die nächste Bahn.",
+          "es": "Tomo el siguiente tren."
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "palabra": "der Bahnhof",
+      "traduccion": "la estación de tren",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Bahnhöfe",
+      "ejemplos": [
+        {
+          "de": "Komme ich hier zum Bahnhof?",
+          "es": "¿Se va por aquí a la estación?"
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "palabra": "der Bahnsteig",
+      "traduccion": "el andén",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Bahnsteige",
+      "ejemplos": [
+        {
+          "de": "Auf welchem Bahnsteig fährt der Zug?",
+          "es": "¿De qué andén sale el tren?"
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "palabra": "bald",
+      "traduccion": "pronto",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ich komme bald.",
+          "es": "Vengo pronto."
+        },
+        {
+          "de": "Bis bald!",
+          "es": "¡Hasta pronto!"
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "palabra": "der Balkon",
+      "traduccion": "el balcón",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Balkone",
+      "ejemplos": [
+        {
+          "de": "Die Wohnung hat auch einen kleinen Balkon.",
+          "es": "El apartamento también tiene un pequeño balcón."
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "palabra": "die Banane",
+      "traduccion": "el plátano / la banana",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Bananen",
+      "ejemplos": [
+        {
+          "de": "Drei Bananen, bitte!",
+          "es": "Tres plátanos, por favor."
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "palabra": "die Bank",
+      "traduccion": "el banco / el banco (asiento)",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Banken/Bänke",
+      "ejemplos": [
+        {
+          "de": "Die Bank schließt schon um vier Uhr.",
+          "es": "El banco cierra ya a las cuatro."
+        },
+        {
+          "de": "Er sitzt im Park auf einer Bank und liest.",
+          "es": "Está sentado en un banco del parque leyendo."
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "palabra": "bar",
+      "traduccion": "en efectivo",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Muss ich bar zahlen oder geht's auch mit Karte?",
+          "es": "¿Tengo que pagar en efectivo o también puedo con tarjeta?"
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "palabra": "der Bauch",
+      "traduccion": "el vientre / la barriga",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Bäuche",
+      "ejemplos": [
+        {
+          "de": "Seit gestern tut mir der Bauch weh.",
+          "es": "Desde ayer me duele el vientre."
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "palabra": "der Baum",
+      "traduccion": "el árbol",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Bäume",
+      "ejemplos": [
+        {
+          "de": "Vorsicht, fahr nicht an den Baum!",
+          "es": "¡Cuidado, no choques contra el árbol!"
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "palabra": "bedeuten",
+      "traduccion": "significar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Was bedeutet das Wort?",
+          "es": "¿Qué significa la palabra?"
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "palabra": "beginnen",
+      "traduccion": "comenzar / empezar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Das Spiel beginnt um 15.30 Uhr.",
+          "es": "El partido empieza a las 15:30."
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "palabra": "bei",
+      "traduccion": "en / con / cerca de",
+      "categoria": "praposicion",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ich wohne bei meinen Eltern.",
+          "es": "Vivo con mis padres."
+        },
+        {
+          "de": "Er arbeitet bei der Polizei.",
+          "es": "Trabaja en la policía."
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "palabra": "beide",
+      "traduccion": "ambos/as / los dos",
+      "categoria": "pronomen",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Beide Eltern arbeiten.",
+          "es": "Ambos padres trabajan."
+        },
+        {
+          "de": "Wir kommen beide.",
+          "es": "Venimos los dos."
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "palabra": "das Bein",
+      "traduccion": "la pierna",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Beine",
+      "ejemplos": [
+        {
+          "de": "Mein rechtes Bein tut weh.",
+          "es": "Me duele la pierna derecha."
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "palabra": "das Beispiel",
+      "traduccion": "el ejemplo",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Beispiele",
+      "ejemplos": [
+        {
+          "de": "Kannst du mir ein Beispiel sagen?",
+          "es": "¿Puedes darme un ejemplo?"
+        },
+        {
+          "de": "zum Beispiel (z.B.)",
+          "es": "por ejemplo (p.ej.)"
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "palabra": "bekannt",
+      "traduccion": "conocido/a / famoso/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Picasso ist sehr bekannt.",
+          "es": "Picasso es muy conocido."
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "palabra": "bekommen",
+      "traduccion": "recibir / obtener",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Haben Sie meinen Brief bekommen?",
+          "es": "¿Ha recibido mi carta?"
+        },
+        {
+          "de": "Was bekommen Sie?",
+          "es": "¿Qué desea? / ¿Qué va a tomar?"
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "palabra": "benutzen",
+      "traduccion": "usar / utilizar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Die Aufzüge bitte nicht benutzen!",
+          "es": "¡Por favor, no utilicen los ascensores!"
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "palabra": "der Beruf",
+      "traduccion": "la profesión / el oficio",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Berufe",
+      "ejemplos": [
+        {
+          "de": "Was sind Sie von Beruf?",
+          "es": "¿A qué se dedica usted? / ¿Cuál es su profesión?"
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "palabra": "besetzt",
+      "traduccion": "ocupado/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Die Nummer ist immer besetzt.",
+          "es": "El número siempre está ocupado."
+        },
+        {
+          "de": "Der Platz ist besetzt.",
+          "es": "El asiento está ocupado."
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "palabra": "besser",
+      "traduccion": "mejor",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Es geht mir schon besser.",
+          "es": "Ya me encuentro mejor."
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "palabra": "bestellen",
+      "traduccion": "pedir / encargar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Wir möchten bestellen, bitte.",
+          "es": "Nos gustaría pedir, por favor."
+        },
+        {
+          "de": "Sollen wir es für Sie bestellen?",
+          "es": "¿Lo encargamos para usted?"
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "palabra": "besuchen",
+      "traduccion": "visitar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Darf ich dich besuchen?",
+          "es": "¿Puedo visitarte?"
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "palabra": "das Bett",
+      "traduccion": "la cama",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Betten",
+      "ejemplos": [
+        {
+          "de": "Wir brauchen noch ein Kinderbett.",
+          "es": "Todavía necesitamos una cuna."
+        },
+        {
+          "de": "Ich liege noch im Bett.",
+          "es": "Todavía estoy en la cama."
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "palabra": "bezahlen",
+      "traduccion": "pagar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Wo muss ich bezahlen?",
+          "es": "¿Dónde tengo que pagar?"
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "palabra": "das Bier",
+      "traduccion": "la cerveza",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Biere",
+      "ejemplos": [
+        {
+          "de": "Noch ein Bier bitte.",
+          "es": "Otra cerveza, por favor."
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "palabra": "das Bild",
+      "traduccion": "la imagen / el cuadro / la foto",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Bilder",
+      "ejemplos": [
+        {
+          "de": "Hast du ein Bild von deinem Sohn?",
+          "es": "¿Tienes una foto de tu hijo?"
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "palabra": "billig",
+      "traduccion": "barato/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Die Jacke kostet nur 10 Euro! Die ist aber billig!",
+          "es": "¡La chaqueta cuesta solo 10 euros! ¡Qué barata!"
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "palabra": "die Birne",
+      "traduccion": "la pera",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Birnen",
+      "ejemplos": [
+        {
+          "de": "Ein Kilo Birnen, bitte!",
+          "es": "Un kilo de peras, por favor."
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "palabra": "bis",
+      "traduccion": "hasta",
+      "categoria": "praposicion",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ich fahre nur bis Stuttgart.",
+          "es": "Solo voy hasta Stuttgart."
+        },
+        {
+          "de": "Ich warte bis morgen.",
+          "es": "Espero hasta mañana."
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "palabra": "bisschen",
+      "traduccion": "un poco",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ich spreche ein bisschen Deutsch.",
+          "es": "Hablo un poco de alemán."
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "palabra": "bitte",
+      "traduccion": "por favor / de nada",
+      "categoria": "frase",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Eine Tasse Kaffee, bitte!",
+          "es": "Una taza de café, por favor."
+        },
+        {
+          "de": "Wie bitte?",
+          "es": "¿Cómo dice? / ¿Perdón?"
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "palabra": "bitten",
+      "traduccion": "pedir / rogar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Darf ich Sie um etwas bitten?",
+          "es": "¿Puedo pedirle algo?"
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "palabra": "bleiben",
+      "traduccion": "quedarse / permanecer",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Ich bleibe heute zu Hause.",
+          "es": "Hoy me quedo en casa."
+        },
+        {
+          "de": "Wir bleiben nur bis morgen.",
+          "es": "Solo nos quedamos hasta mañana."
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "palabra": "der Bleistift",
+      "traduccion": "el lápiz",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Bleistifte",
+      "ejemplos": [
+        {
+          "de": "Hast du einen Bleistift?",
+          "es": "¿Tienes un lápiz?"
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "palabra": "die Blume",
+      "traduccion": "la flor",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Blumen",
+      "ejemplos": [
+        {
+          "de": "Gefallen dir die Blumen?",
+          "es": "¿Te gustan las flores?"
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "palabra": "böse",
+      "traduccion": "enfadado/a / malo/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Sie ist böse auf mich.",
+          "es": "Está enfadada conmigo."
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "palabra": "brauchen",
+      "traduccion": "necesitar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Brauchst du die Zeitung noch?",
+          "es": "¿Todavía necesitas el periódico?"
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "palabra": "breit",
+      "traduccion": "ancho/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Wie breit ist der Schrank?",
+          "es": "¿Qué anchura tiene el armario?"
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "palabra": "der Brief",
+      "traduccion": "la carta",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Briefe",
+      "ejemplos": [
+        {
+          "de": "Haben Sie einen Brief für mich?",
+          "es": "¿Tiene una carta para mí?"
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "palabra": "die Briefmarke",
+      "traduccion": "el sello (postal)",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Briefmarken",
+      "ejemplos": [
+        {
+          "de": "Kaufst du bitte Briefmarken bei der Post.",
+          "es": "¿Compras por favor sellos en correos?"
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "palabra": "bringen",
+      "traduccion": "traer / llevar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Bringen Sie mir bitte noch einen Kaffee!",
+          "es": "¡Tráigame otro café, por favor!"
+        },
+        {
+          "de": "Wir müssen ihn zum Arzt bringen.",
+          "es": "Tenemos que llevarlo al médico."
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "palabra": "das Brot",
+      "traduccion": "el pan",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Brote",
+      "ejemplos": [
+        {
+          "de": "Haben Sie auch Weißbrot?",
+          "es": "¿Tienen también pan blanco?"
+        },
+        {
+          "de": "Nimm noch ein paar Brote für die Fahrt mit.",
+          "es": "Lleva también unos panes para el viaje."
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "palabra": "das Brötchen",
+      "traduccion": "el panecillo",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Brötchen",
+      "ejemplos": [
+        {
+          "de": "Möchtest du Brötchen zum Frühstück?",
+          "es": "¿Quieres panecillos para desayunar?"
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "palabra": "der Bruder",
+      "traduccion": "el hermano",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Brüder",
+      "ejemplos": [
+        {
+          "de": "Sein Bruder arbeitet auch hier.",
+          "es": "Su hermano también trabaja aquí."
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "palabra": "das Buch",
+      "traduccion": "el libro",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Bücher",
+      "ejemplos": [
+        {
+          "de": "Gute Bücher sind oft sehr teuer.",
+          "es": "Los buenos libros suelen ser muy caros."
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "palabra": "der Buchstabe",
+      "traduccion": "la letra (del alfabeto)",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Buchstaben",
+      "ejemplos": [
+        {
+          "de": "Diesen Buchstaben gibt es in meiner Sprache nicht.",
+          "es": "Esta letra no existe en mi idioma."
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "palabra": "buchstabieren",
+      "traduccion": "deletrear",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Bitte buchstabieren Sie Ihren Namen.",
+          "es": "Por favor, deletree su nombre."
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "palabra": "der Bus",
+      "traduccion": "el autobús",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Busse",
+      "ejemplos": [
+        {
+          "de": "Wann kommt der nächste Bus?",
+          "es": "¿Cuándo llega el próximo autobús?"
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "palabra": "die Butter",
+      "traduccion": "la mantequilla",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Für mich bitte ein Brötchen mit Butter und Käse.",
+          "es": "Para mí, por favor, un panecillo con mantequilla y queso."
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "palabra": "das Café",
+      "traduccion": "la cafetería / el café",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Cafés",
+      "ejemplos": [
+        {
+          "de": "Sollen wir uns im Café treffen?",
+          "es": "¿Quedamos en la cafetería?"
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "palabra": "die CD",
+      "traduccion": "el CD / el disco compacto",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "CDs",
+      "ejemplos": [
+        {
+          "de": "Bring bitte deine Lieblings-CD mit.",
+          "es": "Trae por favor tu CD favorito."
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "palabra": "der Chef",
+      "traduccion": "el jefe / el director",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Chefs",
+      "ejemplos": [
+        {
+          "de": "Wir haben eine neue Chefin.",
+          "es": "Tenemos una nueva jefa."
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "palabra": "circa / ca.",
+      "traduccion": "aproximadamente / unos/as",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Von Mainz nach Frankfurt sind es circa fünfzig Kilometer.",
+          "es": "De Maguncia a Frankfurt hay aproximadamente cincuenta kilómetros."
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "palabra": "der Computer",
+      "traduccion": "el ordenador / la computadora",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Computer",
+      "ejemplos": [
+        {
+          "de": "Wann bekommst du deinen neuen Computer?",
+          "es": "¿Cuándo recibes tu nuevo ordenador?"
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "palabra": "da",
+      "traduccion": "allí / ahí / aquí",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Da hinten ist er ja.",
+          "es": "Ahí está, al fondo."
+        },
+        {
+          "de": "Ist Herr Klein schon da?",
+          "es": "¿Ya ha llegado el señor Klein?"
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "palabra": "die Dame",
+      "traduccion": "la señora / la dama",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Damen",
+      "ejemplos": [
+        {
+          "de": "Sehr geehrte Damen und Herren!",
+          "es": "Estimadas señoras y señores."
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "palabra": "danken",
+      "traduccion": "agradecer",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Ich danke Ihnen für die Einladung.",
+          "es": "Le agradezco la invitación."
+        },
+        {
+          "de": "Vielen Dank!",
+          "es": "¡Muchas gracias!"
+        }
+      ]
+    },
+    {
+      "id": 188,
+      "palabra": "dann",
+      "traduccion": "luego / entonces / después",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ich muss noch schnell zur Post, dann komme ich.",
+          "es": "Tengo que ir un momento a correos, luego vengo."
+        }
+      ]
+    },
+    {
+      "id": 189,
+      "palabra": "das Datum",
+      "traduccion": "la fecha",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Daten",
+      "ejemplos": [
+        {
+          "de": "Bitte schreiben Sie noch das Datum auf das Formular.",
+          "es": "Por favor escriba también la fecha en el formulario."
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "palabra": "dauern",
+      "traduccion": "durar / tardar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Wie lange dauert der Film?",
+          "es": "¿Cuánto dura la película?"
+        }
+      ]
+    },
+    {
+      "id": 191,
+      "palabra": "die Disco",
+      "traduccion": "la discoteca",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Discos",
+      "ejemplos": [
+        {
+          "de": "Heute abend gehen wir in die Disco tanzen.",
+          "es": "Esta noche vamos a la discoteca a bailar."
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "palabra": "der Doktor",
+      "traduccion": "el médico / el doctor",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Doktoren",
+      "ejemplos": [
+        {
+          "de": "Meine Tochter ist krank. Wir gehen zum Doktor.",
+          "es": "Mi hija está enferma. Vamos al médico."
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "palabra": "das Doppelzimmer",
+      "traduccion": "la habitación doble",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Doppelzimmer",
+      "ejemplos": [
+        {
+          "de": "Wollen Sie ein Doppelzimmer oder ein Einzelzimmer?",
+          "es": "¿Quiere una habitación doble o individual?"
+        }
+      ]
+    },
+    {
+      "id": 194,
+      "palabra": "das Dorf",
+      "traduccion": "el pueblo / la aldea",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Dörfer",
+      "ejemplos": [
+        {
+          "de": "Meine Familie lebt in einem Dorf.",
+          "es": "Mi familia vive en un pueblo."
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "palabra": "draußen",
+      "traduccion": "fuera / afuera",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Wollen wir draußen sitzen?",
+          "es": "¿Nos sentamos fuera?"
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "palabra": "drucken",
+      "traduccion": "imprimir",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Bitte drucke das Formular für mich.",
+          "es": "Por favor imprímeme el formulario."
+        }
+      ]
+    },
+    {
+      "id": 197,
+      "palabra": "drücken",
+      "traduccion": "apretar / pulsar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Drück hier, dann geht der Computer an.",
+          "es": "Aprieta aquí y el ordenador se enciende."
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "palabra": "durch",
+      "traduccion": "a través de / por",
+      "categoria": "praposicion",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Am besten gehen Sie durch die Breite Straße.",
+          "es": "Lo mejor es que vaya por la Calle Ancha."
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "palabra": "dürfen",
+      "traduccion": "poder (tener permiso)",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "ich": "darf",
+        "du": "darfst",
+        "er/sie/es": "darf",
+        "wir": "dürfen",
+        "ihr": "dürft",
+        "sie/Sie": "dürfen"
+      },
+      "ejemplos": [
+        {
+          "de": "Sie dürfen hier nicht rauchen.",
+          "es": "No puede fumar aquí."
+        },
+        {
+          "de": "Darf ich Sie zu einem Kaffee einladen?",
+          "es": "¿Le puedo invitar a un café?"
+        }
+      ]
+    },
+    {
+      "id": 200,
+      "palabra": "der Durst",
+      "traduccion": "la sed",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ich habe großen Durst.",
+          "es": "Tengo mucha sed."
+        }
+      ]
+    },
+    {
+      "id": 201,
+      "palabra": "(sich) duschen",
+      "traduccion": "ducharse",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Ich bade nicht so gern, ich dusche lieber.",
+          "es": "No me gusta mucho bañarme, prefiero ducharme."
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "palabra": "die Ecke",
+      "traduccion": "el rincón / la esquina",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Ecken",
+      "ejemplos": [
+        {
+          "de": "An der nächsten Ecke links.",
+          "es": "En la próxima esquina a la izquierda."
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "palabra": "die Ehefrau / der Ehemann",
+      "traduccion": "la esposa / el esposo",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Das ist mein Mann / meine Frau.",
+          "es": "Este es mi marido / Esta es mi mujer."
+        }
+      ]
+    },
+    {
+      "id": 204,
+      "palabra": "das Ei",
+      "traduccion": "el huevo",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Eier",
+      "ejemplos": [
+        {
+          "de": "Möchtest du ein Ei zum Frühstück?",
+          "es": "¿Quieres un huevo para desayunar?"
+        }
+      ]
+    },
+    {
+      "id": 205,
+      "palabra": "eilig",
+      "traduccion": "urgente / con prisa",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Hast du es eilig?",
+          "es": "¿Tienes prisa?"
+        }
+      ]
+    },
+    {
+      "id": 206,
+      "palabra": "einfach",
+      "traduccion": "sencillo/a / solo de ida",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Die Prüfung ist ganz einfach.",
+          "es": "El examen es muy sencillo."
+        },
+        {
+          "de": "Hin und zurück? – Nein, bitte nur einfach.",
+          "es": "¿Ida y vuelta? – No, solo de ida, por favor."
+        }
+      ]
+    },
+    {
+      "id": 207,
+      "palabra": "der Eingang",
+      "traduccion": "la entrada",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Eingänge",
+      "ejemplos": [
+        {
+          "de": "Der Eingang ist um die Ecke.",
+          "es": "La entrada está a la vuelta de la esquina."
+        }
+      ]
+    },
+    {
+      "id": 208,
+      "palabra": "einkaufen",
+      "traduccion": "ir de compras / comprar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Ich muss noch für morgen einkaufen.",
+          "es": "Todavía tengo que hacer la compra para mañana."
+        }
+      ]
+    },
+    {
+      "id": 209,
+      "palabra": "einladen",
+      "traduccion": "invitar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Darf ich Sie zu einem Kaffee einladen?",
+          "es": "¿Le puedo invitar a un café?"
+        },
+        {
+          "de": "Danke für die Einladung!",
+          "es": "¡Gracias por la invitación!"
+        }
+      ]
+    },
+    {
+      "id": 210,
+      "palabra": "einmal",
+      "traduccion": "una vez",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Diese Prüfung mache ich nicht noch einmal.",
+          "es": "Este examen no lo hago otra vez."
+        }
+      ]
+    },
+    {
+      "id": 211,
+      "palabra": "einsteigen",
+      "traduccion": "subirse / embarcar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Schnell, steig ein, der Zug fährt gleich.",
+          "es": "Rápido, súbete que el tren sale enseguida."
+        }
+      ]
+    },
+    {
+      "id": 212,
+      "palabra": "der Eintritt",
+      "traduccion": "la entrada (precio)",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Eintritte",
+      "ejemplos": [
+        {
+          "de": "Der Preis für den Eintritt ist 5 Euro.",
+          "es": "El precio de la entrada es 5 euros."
+        }
+      ]
+    },
+    {
+      "id": 213,
+      "palabra": "das Einzelzimmer",
+      "traduccion": "la habitación individual",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Einzelzimmer",
+      "ejemplos": [
+        {
+          "de": "Haben Sie noch ein Einzelzimmer?",
+          "es": "¿Les queda alguna habitación individual?"
+        }
+      ]
+    },
+    {
+      "id": 214,
+      "palabra": "die Eltern",
+      "traduccion": "los padres",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Meine Eltern leben in Spanien.",
+          "es": "Mis padres viven en España."
+        }
+      ]
+    },
+    {
+      "id": 215,
+      "palabra": "die E-Mail",
+      "traduccion": "el correo electrónico",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "E-Mails",
+      "ejemplos": [
+        {
+          "de": "Ich habe Ihre E-Mail nicht bekommen.",
+          "es": "No he recibido su correo electrónico."
+        }
+      ]
+    },
+    {
+      "id": 216,
+      "palabra": "entschuldigen",
+      "traduccion": "disculpar / excusar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Entschuldigen Sie bitte!",
+          "es": "¡Disculpe, por favor!"
+        },
+        {
+          "de": "Entschuldigung!",
+          "es": "¡Perdón! / ¡Disculpe!"
+        }
+      ]
+    },
+    {
+      "id": 217,
+      "palabra": "erklären",
+      "traduccion": "explicar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Kannst du mir das erklären?",
+          "es": "¿Me puedes explicar eso?"
+        }
+      ]
+    },
+    {
+      "id": 218,
+      "palabra": "erzählen",
+      "traduccion": "contar / narrar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Wir müssen euch etwas erzählen!",
+          "es": "¡Tenemos que contaros algo!"
+        }
+      ]
+    },
+    {
+      "id": 219,
+      "palabra": "essen",
+      "traduccion": "comer",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "du": "isst",
+        "er/sie/es": "isst"
+      },
+      "ejemplos": [
+        {
+          "de": "Was gibt es zu essen?",
+          "es": "¿Qué hay para comer?"
+        },
+        {
+          "de": "Das Essen ist heute sehr gut.",
+          "es": "La comida hoy está muy buena."
+        }
+      ]
+    },
+    {
+      "id": 220,
+      "palabra": "fahren",
+      "traduccion": "ir (en vehículo) / conducir",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "du": "fährst",
+        "er/sie/es": "fährt"
+      },
+      "ejemplos": [
+        {
+          "de": "Ich fahre mit dem Auto zur Arbeit.",
+          "es": "Voy al trabajo en coche."
+        },
+        {
+          "de": "Wir fahren mit der Bahn.",
+          "es": "Viajamos en tren."
+        }
+      ]
+    },
+    {
+      "id": 221,
+      "palabra": "die Fahrkarte",
+      "traduccion": "el billete (de transporte)",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Fahrkarten",
+      "ejemplos": [
+        {
+          "de": "Hast du schon eine Fahrkarte?",
+          "es": "¿Ya tienes un billete?"
+        }
+      ]
+    },
+    {
+      "id": 222,
+      "palabra": "das Fahrrad",
+      "traduccion": "la bicicleta",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Fahrräder",
+      "ejemplos": [
+        {
+          "de": "Fährst du mit dem Fahrrad oder mit dem Auto?",
+          "es": "¿Vas en bicicleta o en coche?"
+        }
+      ]
+    },
+    {
+      "id": 223,
+      "palabra": "falsch",
+      "traduccion": "incorrecto/a / equivocado/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Das ist falsch.",
+          "es": "Eso está mal."
+        }
+      ]
+    },
+    {
+      "id": 224,
+      "palabra": "die Familie",
+      "traduccion": "la familia",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Familien",
+      "ejemplos": [
+        {
+          "de": "Meine Familie lebt in Spanien.",
+          "es": "Mi familia vive en España."
+        }
+      ]
+    },
+    {
+      "id": 225,
+      "palabra": "der Familienname",
+      "traduccion": "el apellido",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Familiennamen",
+      "ejemplos": [
+        {
+          "de": "Mein Familienname ist García.",
+          "es": "Mi apellido es García."
+        }
+      ]
+    },
+    {
+      "id": 226,
+      "palabra": "die Farbe",
+      "traduccion": "el color",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Farben",
+      "ejemplos": [
+        {
+          "de": "Die Farbe gefällt mir gut.",
+          "es": "El color me gusta mucho."
+        }
+      ]
+    },
+    {
+      "id": 227,
+      "palabra": "feiern",
+      "traduccion": "celebrar / festejar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Wir feiern heute meinen Geburtstag.",
+          "es": "Hoy celebramos mi cumpleaños."
+        }
+      ]
+    },
+    {
+      "id": 228,
+      "palabra": "fehlen",
+      "traduccion": "faltar / estar ausente",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Herr Müller ist nicht da, er fehlt schon seit drei Tagen.",
+          "es": "El señor Müller no está, lleva tres días ausente."
+        },
+        {
+          "de": "Was fehlt Ihnen?",
+          "es": "¿Qué le pasa? / ¿Qué le duele?"
+        }
+      ]
+    },
+    {
+      "id": 229,
+      "palabra": "der Fehler",
+      "traduccion": "el error / la equivocación",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Fehler",
+      "ejemplos": [
+        {
+          "de": "Diesen Fehler mache ich immer.",
+          "es": "Siempre cometo este error."
+        }
+      ]
+    },
+    {
+      "id": 230,
+      "palabra": "fernsehen",
+      "traduccion": "ver la televisión",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "du": "siehst fern",
+        "er/sie/es": "sieht fern"
+      },
+      "ejemplos": [
+        {
+          "de": "Wollen wir heute Abend mal fernsehen?",
+          "es": "¿Vemos la televisión esta noche?"
+        }
+      ]
+    },
+    {
+      "id": 231,
+      "palabra": "fertig",
+      "traduccion": "listo/a / terminado/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Bist du fertig?",
+          "es": "¿Estás listo/a?"
+        },
+        {
+          "de": "Ist mein Auto schon fertig?",
+          "es": "¿Ya está listo mi coche?"
+        }
+      ]
+    },
+    {
+      "id": 232,
+      "palabra": "das Feuer",
+      "traduccion": "el fuego / la lumbre",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Haben Sie Feuer?",
+          "es": "¿Tiene fuego?"
+        }
+      ]
+    },
+    {
+      "id": 233,
+      "palabra": "das Fieber",
+      "traduccion": "la fiebre",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Mein Mann hat noch immer Fieber.",
+          "es": "Mi marido todavía tiene fiebre."
+        }
+      ]
+    },
+    {
+      "id": 234,
+      "palabra": "der Film",
+      "traduccion": "la película / el film",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Filme",
+      "ejemplos": [
+        {
+          "de": "Ich möchte gern diesen Film sehen.",
+          "es": "Me gustaría ver esta película."
+        }
+      ]
+    },
+    {
+      "id": 235,
+      "palabra": "finden",
+      "traduccion": "encontrar / hallar / opinar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Wir müssen den Schlüssel finden.",
+          "es": "Tenemos que encontrar la llave."
+        },
+        {
+          "de": "Das finde ich gut.",
+          "es": "Me parece bien."
+        }
+      ]
+    },
+    {
+      "id": 236,
+      "palabra": "die Firma",
+      "traduccion": "la empresa",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Firmen",
+      "ejemplos": [
+        {
+          "de": "Er arbeitet jetzt bei einer anderen Firma.",
+          "es": "Ahora trabaja en otra empresa."
+        }
+      ]
+    },
+    {
+      "id": 237,
+      "palabra": "der Fisch",
+      "traduccion": "el pescado / el pez",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Fische",
+      "ejemplos": [
+        {
+          "de": "Ich esse gern Fisch. Fleisch mag ich nicht.",
+          "es": "Me gusta el pescado. La carne no me gusta."
+        }
+      ]
+    },
+    {
+      "id": 238,
+      "palabra": "die Flasche",
+      "traduccion": "la botella",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Flaschen",
+      "ejemplos": [
+        {
+          "de": "Eine Flasche Bier, bitte.",
+          "es": "Una botella de cerveza, por favor."
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "palabra": "das Fleisch",
+      "traduccion": "la carne",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Fleisch mag ich nicht.",
+          "es": "La carne no me gusta."
+        }
+      ]
+    },
+    {
+      "id": 240,
+      "palabra": "fliegen",
+      "traduccion": "volar / ir en avión",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Ich fliege nicht gern. Deshalb fahre ich mit dem Zug.",
+          "es": "No me gusta volar. Por eso viajo en tren."
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "palabra": "der Flughafen",
+      "traduccion": "el aeropuerto",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Flughäfen",
+      "ejemplos": [
+        {
+          "de": "Kannst du mich zum Flughafen bringen?",
+          "es": "¿Me puedes llevar al aeropuerto?"
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "palabra": "das Flugzeug",
+      "traduccion": "el avión",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Flugzeuge",
+      "ejemplos": [
+        {
+          "de": "Das Flugzeug aus Berlin kommt heute später an.",
+          "es": "El avión de Berlín llega hoy más tarde."
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "palabra": "das Formular",
+      "traduccion": "el formulario",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Formulare",
+      "ejemplos": [
+        {
+          "de": "Sie müssen dieses Formular ausfüllen.",
+          "es": "Tiene que rellenar este formulario."
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "palabra": "das Foto",
+      "traduccion": "la foto / la fotografía",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Fotos",
+      "ejemplos": [
+        {
+          "de": "Darf ich ein Foto machen?",
+          "es": "¿Puedo hacer una foto?"
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "palabra": "fragen",
+      "traduccion": "preguntar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Er möchte Sie etwas fragen.",
+          "es": "Le quiere preguntar algo."
+        },
+        {
+          "de": "Ich habe eine Frage.",
+          "es": "Tengo una pregunta."
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "palabra": "die Frau",
+      "traduccion": "la mujer / la señora",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Frauen",
+      "ejemplos": [
+        {
+          "de": "Das ist Frau Becker.",
+          "es": "Es la señora Becker."
+        },
+        {
+          "de": "Guten Tag, Frau Schmitt!",
+          "es": "¡Buenos días, señora Schmitt!"
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "palabra": "frei",
+      "traduccion": "libre / desocupado/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ist der Platz noch frei?",
+          "es": "¿Está libre este asiento?"
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "palabra": "die Freizeit",
+      "traduccion": "el tiempo libre / el ocio",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "In meiner Freizeit spiele ich oft Fußball.",
+          "es": "En mi tiempo libre juego mucho al fútbol."
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "palabra": "(sich) freuen",
+      "traduccion": "alegrarse",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Ich freue mich auf den Urlaub.",
+          "es": "Estoy deseando que lleguen las vacaciones."
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "palabra": "der Freund",
+      "traduccion": "el amigo / el novio",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Freunde",
+      "ejemplos": [
+        {
+          "de": "Das ist ein Freund von mir.",
+          "es": "Es un amigo mío."
+        },
+        {
+          "de": "Das ist meine Freundin.",
+          "es": "Es mi amiga / mi novia."
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "palabra": "früher",
+      "traduccion": "antes / anteriormente",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Früher waren wir oft zusammen im Kino.",
+          "es": "Antes íbamos juntos al cine con frecuencia."
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "palabra": "frühstücken",
+      "traduccion": "desayunar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Am Sonntag frühstücke ich gern im Bett.",
+          "es": "Los domingos me gusta desayunar en la cama."
+        },
+        {
+          "de": "Möchtest du ein Ei zum Frühstück?",
+          "es": "¿Quieres un huevo para desayunar?"
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "palabra": "für",
+      "traduccion": "para / por",
+      "categoria": "praposicion",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Das ist für Sie.",
+          "es": "Esto es para usted."
+        },
+        {
+          "de": "Das ist das Brot für morgen.",
+          "es": "Es el pan para mañana."
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "palabra": "der Fuß",
+      "traduccion": "el pie",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Füße",
+      "ejemplos": [
+        {
+          "de": "Der linke Fuß tut mir weh.",
+          "es": "Me duele el pie izquierdo."
+        },
+        {
+          "de": "Ich gehe zu Fuß.",
+          "es": "Voy a pie."
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "palabra": "der Fußball",
+      "traduccion": "el fútbol",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Fußbälle",
+      "ejemplos": [
+        {
+          "de": "Spielt ihr gerne Fußball?",
+          "es": "¿Os gusta jugar al fútbol?"
+        }
+      ]
+    },
+    {
+      "id": 256,
+      "palabra": "der Garten",
+      "traduccion": "el jardín",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Gärten",
+      "ejemplos": [
+        {
+          "de": "Wir haben leider keinen Garten.",
+          "es": "Lamentablemente no tenemos jardín."
+        },
+        {
+          "de": "Heute grillen wir im Garten.",
+          "es": "Hoy hacemos barbacoa en el jardín."
+        }
+      ]
+    },
+    {
+      "id": 257,
+      "palabra": "der Gast",
+      "traduccion": "el huésped / el invitado / el cliente",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Gäste",
+      "ejemplos": [
+        {
+          "de": "Am Wochenende haben wir mehrere Gäste.",
+          "es": "El fin de semana tenemos varios invitados."
+        }
+      ]
+    },
+    {
+      "id": 258,
+      "palabra": "geben",
+      "traduccion": "dar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "du": "gibst",
+        "er/sie/es": "gibt"
+      },
+      "ejemplos": [
+        {
+          "de": "Kannst du mir bitte deinen Kugelschreiber geben?",
+          "es": "¿Me puedes dar tu bolígrafo?"
+        },
+        {
+          "de": "Es gibt keine Karten mehr.",
+          "es": "Ya no quedan entradas."
+        }
+      ]
+    },
+    {
+      "id": 259,
+      "palabra": "geboren",
+      "traduccion": "nacido/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ich bin in Zagreb geboren.",
+          "es": "Nací en Zagreb."
+        },
+        {
+          "de": "Wann sind Sie geboren?",
+          "es": "¿Cuándo nació?"
+        }
+      ]
+    },
+    {
+      "id": 260,
+      "palabra": "der Geburtstag",
+      "traduccion": "el cumpleaños",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Geburtstage",
+      "ejemplos": [
+        {
+          "de": "Herzlichen Glückwunsch zum Geburtstag!",
+          "es": "¡Feliz cumpleaños!"
+        },
+        {
+          "de": "Wann hast du Geburtstag?",
+          "es": "¿Cuándo es tu cumpleaños?"
+        }
+      ]
+    },
+    {
+      "id": 261,
+      "palabra": "gefallen",
+      "traduccion": "gustar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "du": "gefällst",
+        "er/sie/es": "gefällt"
+      },
+      "ejemplos": [
+        {
+          "de": "Das gefällt mir.",
+          "es": "Eso me gusta."
+        },
+        {
+          "de": "Gefallen dir die Blumen?",
+          "es": "¿Te gustan las flores?"
+        }
+      ]
+    },
+    {
+      "id": 262,
+      "palabra": "gehen",
+      "traduccion": "ir / caminar / andar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Ich muss zum Arzt gehen.",
+          "es": "Tengo que ir al médico."
+        },
+        {
+          "de": "Wie geht's?",
+          "es": "¿Cómo estás? / ¿Qué tal?"
+        },
+        {
+          "de": "Das geht nicht!",
+          "es": "¡Eso no puede ser! / ¡Eso no va!"
+        }
+      ]
+    },
+    {
+      "id": 263,
+      "palabra": "das Geld",
+      "traduccion": "el dinero",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Hast du noch Geld?",
+          "es": "¿Tienes dinero todavía?"
+        },
+        {
+          "de": "Ohne Geld kann er nichts kaufen.",
+          "es": "Sin dinero no puede comprar nada."
+        }
+      ]
+    },
+    {
+      "id": 264,
+      "palabra": "das Gemüse",
+      "traduccion": "la verdura / las verduras",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Gemüse brauchen wir auch noch.",
+          "es": "También necesitamos verduras."
+        }
+      ]
+    },
+    {
+      "id": 265,
+      "palabra": "das Gepäck",
+      "traduccion": "el equipaje",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Wollen Sie Ihr Gepäck mitnehmen?",
+          "es": "¿Quiere llevarse su equipaje?"
+        }
+      ]
+    },
+    {
+      "id": 266,
+      "palabra": "geradeaus",
+      "traduccion": "todo recto / derecho",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Gehen Sie immer geradeaus!",
+          "es": "¡Siga todo recto!"
+        }
+      ]
+    },
+    {
+      "id": 267,
+      "palabra": "gern(e)",
+      "traduccion": "con gusto / de buena gana",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ich gehe gerne einkaufen.",
+          "es": "Me gusta ir de compras."
+        },
+        {
+          "de": "Ich esse gern Fisch.",
+          "es": "Me gusta el pescado."
+        }
+      ]
+    },
+    {
+      "id": 268,
+      "palabra": "das Geschäft",
+      "traduccion": "la tienda / el negocio",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Geschäfte",
+      "ejemplos": [
+        {
+          "de": "Die Geschäfte schließen um 18.30 Uhr.",
+          "es": "Las tiendas cierran a las 18:30."
+        }
+      ]
+    },
+    {
+      "id": 269,
+      "palabra": "das Geschenk",
+      "traduccion": "el regalo",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Geschenke",
+      "ejemplos": [
+        {
+          "de": "Danke für das schöne Geschenk.",
+          "es": "Gracias por el bonito regalo."
+        }
+      ]
+    },
+    {
+      "id": 270,
+      "palabra": "die Geschwister",
+      "traduccion": "los hermanos (ambos sexos)",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ich habe leider keine Geschwister.",
+          "es": "Lamentablemente no tengo hermanos."
+        }
+      ]
+    },
+    {
+      "id": 271,
+      "palabra": "gestern",
+      "traduccion": "ayer",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Gestern war ich krank.",
+          "es": "Ayer estuve enfermo."
+        }
+      ]
+    },
+    {
+      "id": 272,
+      "palabra": "das Getränk",
+      "traduccion": "la bebida",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Getränke",
+      "ejemplos": [
+        {
+          "de": "Mein Lieblingsgetränk ist Tomatensaft.",
+          "es": "Mi bebida favorita es el zumo de tomate."
+        }
+      ]
+    },
+    {
+      "id": 273,
+      "palabra": "glauben",
+      "traduccion": "creer / pensar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Ich glaube, er kommt gleich.",
+          "es": "Creo que llega enseguida."
+        },
+        {
+          "de": "Sie können mir glauben, es ist so.",
+          "es": "Puede creerme, es así."
+        }
+      ]
+    },
+    {
+      "id": 274,
+      "palabra": "gleich",
+      "traduccion": "igual / enseguida / en seguida",
+      "categoria": "adjektiv/adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ich komme gleich.",
+          "es": "Vengo enseguida."
+        },
+        {
+          "de": "Das ist der gleiche Preis.",
+          "es": "Es el mismo precio."
+        }
+      ]
+    },
+    {
+      "id": 275,
+      "palabra": "das Gleis",
+      "traduccion": "la vía / el andén",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Gleise",
+      "ejemplos": [
+        {
+          "de": "Der ICE nach Berlin hält heute an Gleis 12.",
+          "es": "El ICE a Berlín para hoy en la vía 12."
+        }
+      ]
+    },
+    {
+      "id": 276,
+      "palabra": "das Glück",
+      "traduccion": "la suerte / la felicidad",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Viel Glück!",
+          "es": "¡Mucha suerte!"
+        }
+      ]
+    },
+    {
+      "id": 277,
+      "palabra": "gratulieren",
+      "traduccion": "felicitar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Ich gratuliere dir!",
+          "es": "¡Te felicito!"
+        },
+        {
+          "de": "Herzlichen Glückwunsch zum Geburtstag.",
+          "es": "Muchas felicidades en tu cumpleaños."
+        }
+      ]
+    },
+    {
+      "id": 278,
+      "palabra": "groß",
+      "traduccion": "grande / alto/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Frankfurt ist eine große Stadt.",
+          "es": "Frankfurt es una ciudad grande."
+        },
+        {
+          "de": "Wie groß bist du?",
+          "es": "¿Cuánto mides?"
+        }
+      ]
+    },
+    {
+      "id": 279,
+      "palabra": "die Großeltern",
+      "traduccion": "los abuelos",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Meine Großeltern leben in Japan.",
+          "es": "Mis abuelos viven en Japón."
+        }
+      ]
+    },
+    {
+      "id": 280,
+      "palabra": "der Gruß",
+      "traduccion": "el saludo",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Grüße",
+      "ejemplos": [
+        {
+          "de": "Viele Grüße an Ihre Frau.",
+          "es": "Muchos recuerdos a su mujer."
+        },
+        {
+          "de": "Mit freundlichen Grüßen",
+          "es": "Atentamente / Con un cordial saludo"
+        }
+      ]
+    },
+    {
+      "id": 281,
+      "palabra": "gut",
+      "traduccion": "bueno/a / bien",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Das finde ich gut.",
+          "es": "Me parece bien."
+        },
+        {
+          "de": "Guten Morgen!",
+          "es": "¡Buenos días!"
+        },
+        {
+          "de": "Guten Appetit!",
+          "es": "¡Buen provecho!"
+        }
+      ]
+    },
+    {
+      "id": 282,
+      "palabra": "das Haar",
+      "traduccion": "el pelo / el cabello",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Haare",
+      "ejemplos": [
+        {
+          "de": "Sie hat lange Haare.",
+          "es": "Tiene el pelo largo."
+        }
+      ]
+    },
+    {
+      "id": 283,
+      "palabra": "haben",
+      "traduccion": "tener",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "du": "hast",
+        "er/sie/es": "hat"
+      },
+      "ejemplos": [
+        {
+          "de": "Ich habe ein neues Auto.",
+          "es": "Tengo un coche nuevo."
+        },
+        {
+          "de": "Hast du Hunger?",
+          "es": "¿Tienes hambre?"
+        }
+      ]
+    },
+    {
+      "id": 284,
+      "palabra": "die Halbpension",
+      "traduccion": "la media pensión",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Möchten Sie Vollpension oder Halbpension?",
+          "es": "¿Quiere pensión completa o media pensión?"
+        }
+      ]
+    },
+    {
+      "id": 285,
+      "palabra": "hallo",
+      "traduccion": "hola",
+      "categoria": "frase",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Hallo Inge! Wie geht's?",
+          "es": "¡Hola Inge! ¿Qué tal?"
+        }
+      ]
+    },
+    {
+      "id": 286,
+      "palabra": "halten",
+      "traduccion": "parar / detenerse",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "du": "hältst",
+        "er/sie/es": "hält"
+      },
+      "ejemplos": [
+        {
+          "de": "Dieser Zug hält nicht in Rüdesheim.",
+          "es": "Este tren no para en Rüdesheim."
+        }
+      ]
+    },
+    {
+      "id": 287,
+      "palabra": "die Haltestelle",
+      "traduccion": "la parada (de autobús)",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Haltestellen",
+      "ejemplos": [
+        {
+          "de": "An der nächsten Haltestelle müssen Sie aussteigen.",
+          "es": "Tiene que bajarse en la próxima parada."
+        }
+      ]
+    },
+    {
+      "id": 288,
+      "palabra": "die Hand",
+      "traduccion": "la mano",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Hände",
+      "ejemplos": [
+        {
+          "de": "Er gibt mir die Hand.",
+          "es": "Me da la mano."
+        }
+      ]
+    },
+    {
+      "id": 289,
+      "palabra": "das Handy",
+      "traduccion": "el móvil / el teléfono celular",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Handys",
+      "ejemplos": [
+        {
+          "de": "In der Schule bitte die Handys ausmachen!",
+          "es": "¡En la escuela, por favor, apaguen los móviles!"
+        }
+      ]
+    },
+    {
+      "id": 290,
+      "palabra": "das Haus",
+      "traduccion": "la casa",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Häuser",
+      "ejemplos": [
+        {
+          "de": "In welchem Haus wohnst du?",
+          "es": "¿En qué casa vives?"
+        },
+        {
+          "de": "Ich gehe jetzt nach Hause.",
+          "es": "Ahora me voy a casa."
+        },
+        {
+          "de": "Paul ist nicht zu Hause.",
+          "es": "Paul no está en casa."
+        }
+      ]
+    },
+    {
+      "id": 291,
+      "palabra": "heiraten",
+      "traduccion": "casarse",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Meine Schwester heiratet einen Japaner.",
+          "es": "Mi hermana se casa con un japonés."
+        }
+      ]
+    },
+    {
+      "id": 292,
+      "palabra": "heißen",
+      "traduccion": "llamarse",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Ich heiße Charlotte Meier.",
+          "es": "Me llamo Charlotte Meier."
+        },
+        {
+          "de": "Wie heißt das auf Deutsch?",
+          "es": "¿Cómo se dice eso en alemán?"
+        }
+      ]
+    },
+    {
+      "id": 293,
+      "palabra": "helfen",
+      "traduccion": "ayudar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "du": "hilfst",
+        "er/sie/es": "hilft"
+      },
+      "ejemplos": [
+        {
+          "de": "Können Sie mir helfen, bitte?",
+          "es": "¿Me puede ayudar, por favor?"
+        }
+      ]
+    },
+    {
+      "id": 294,
+      "palabra": "hell",
+      "traduccion": "claro/a / luminoso/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Im Sommer ist es bis 21 Uhr hell.",
+          "es": "En verano hay luz hasta las 21 horas."
+        }
+      ]
+    },
+    {
+      "id": 295,
+      "palabra": "der Herd",
+      "traduccion": "la cocina (electrodoméstico)",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Herde",
+      "ejemplos": [
+        {
+          "de": "In der neuen Küche fehlt noch der Herd.",
+          "es": "En la nueva cocina todavía falta el fogón."
+        }
+      ]
+    },
+    {
+      "id": 296,
+      "palabra": "herzlich",
+      "traduccion": "cordial / sincero",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Herzlichen Glückwunsch!",
+          "es": "¡Felicidades!"
+        },
+        {
+          "de": "Herzlich willkommen!",
+          "es": "¡Bienvenido/a!"
+        }
+      ]
+    },
+    {
+      "id": 297,
+      "palabra": "heute",
+      "traduccion": "hoy",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Heute ist ein schöner Tag.",
+          "es": "Hoy es un día bonito."
+        }
+      ]
+    },
+    {
+      "id": 298,
+      "palabra": "hier",
+      "traduccion": "aquí",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Hier wohne ich.",
+          "es": "Aquí es donde vivo."
+        }
+      ]
+    },
+    {
+      "id": 299,
+      "palabra": "das Hobby",
+      "traduccion": "el hobby / el pasatiempo",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Hobbys",
+      "ejemplos": [
+        {
+          "de": "Meine Hobbys sind Wandern und Schwimmen.",
+          "es": "Mis hobbys son el senderismo y la natación."
+        }
+      ]
+    },
+    {
+      "id": 300,
+      "palabra": "hoch",
+      "traduccion": "alto/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Der Mount Everest ist 8.880 Meter hoch.",
+          "es": "El Monte Everest tiene 8.880 metros de altura."
+        }
+      ]
+    },
+    {
+      "id": 301,
+      "palabra": "die Hochzeit",
+      "traduccion": "la boda",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Hochzeiten",
+      "ejemplos": [
+        {
+          "de": "Zur Hochzeit kommen mehr als fünfzig Gäste.",
+          "es": "A la boda vienen más de cincuenta invitados."
+        }
+      ]
+    },
+    {
+      "id": 302,
+      "palabra": "hören",
+      "traduccion": "oír / escuchar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Hör mal! Was ist das?",
+          "es": "¡Escucha! ¿Qué es eso?"
+        },
+        {
+          "de": "Ich habe das Lied schon mal gehört.",
+          "es": "Ya he escuchado esa canción."
+        }
+      ]
+    },
+    {
+      "id": 303,
+      "palabra": "das Hotel",
+      "traduccion": "el hotel",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Hotels",
+      "ejemplos": [
+        {
+          "de": "Im Urlaub sind wir in einem Hotel am Meer.",
+          "es": "Durante las vacaciones estamos en un hotel junto al mar."
+        }
+      ]
+    },
+    {
+      "id": 304,
+      "palabra": "der Hund",
+      "traduccion": "el perro",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Hunde",
+      "ejemplos": [
+        {
+          "de": "Der Hund ist noch jung.",
+          "es": "El perro todavía es joven."
+        }
+      ]
+    },
+    {
+      "id": 305,
+      "palabra": "der Hunger",
+      "traduccion": "el hambre",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ich habe Hunger! Wann ist das Essen fertig?",
+          "es": "¡Tengo hambre! ¿Cuándo estará lista la comida?"
+        }
+      ]
+    },
+    {
+      "id": 306,
+      "palabra": "immer",
+      "traduccion": "siempre",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Frau Bast kommt immer zu spät.",
+          "es": "La señora Bast siempre llega tarde."
+        }
+      ]
+    },
+    {
+      "id": 307,
+      "palabra": "die Information",
+      "traduccion": "la información",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Informationen",
+      "ejemplos": [
+        {
+          "de": "Wenn Sie Fragen haben, gehen Sie zur Information.",
+          "es": "Si tiene preguntas, vaya a información."
+        }
+      ]
+    },
+    {
+      "id": 308,
+      "palabra": "das Internet",
+      "traduccion": "internet",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Das findest du im Internet.",
+          "es": "Eso lo encuentras en internet."
+        }
+      ]
+    },
+    {
+      "id": 309,
+      "palabra": "ja",
+      "traduccion": "sí",
+      "categoria": "partikel",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Sind Sie Herr Watanabe? – Ja.",
+          "es": "¿Es usted el señor Watanabe? – Sí."
+        }
+      ]
+    },
+    {
+      "id": 310,
+      "palabra": "die Jacke",
+      "traduccion": "la chaqueta / la cazadora",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Jacken",
+      "ejemplos": [
+        {
+          "de": "Zieh dir eine Jacke an. Es ist kalt.",
+          "es": "Ponte una chaqueta. Hace frío."
+        }
+      ]
+    },
+    {
+      "id": 311,
+      "palabra": "jetzt",
+      "traduccion": "ahora",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Jetzt machen wir eine Pause.",
+          "es": "Ahora hacemos una pausa."
+        }
+      ]
+    },
+    {
+      "id": 312,
+      "palabra": "der Job",
+      "traduccion": "el trabajo / el empleo",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Jobs",
+      "ejemplos": [
+        {
+          "de": "Jenny hat einen neuen Job bei der Post.",
+          "es": "Jenny tiene un nuevo trabajo en correos."
+        }
+      ]
+    },
+    {
+      "id": 313,
+      "palabra": "jung",
+      "traduccion": "joven",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Claudia ist 21. – Was? Noch so jung?",
+          "es": "Claudia tiene 21 años. – ¿Qué? ¿Tan joven todavía?"
+        }
+      ]
+    },
+    {
+      "id": 314,
+      "palabra": "der Junge",
+      "traduccion": "el chico / el niño",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Jungen",
+      "ejemplos": [
+        {
+          "de": "Ich habe zwei Kinder. Einen Jungen und ein Mädchen.",
+          "es": "Tengo dos hijos. Un niño y una niña."
+        }
+      ]
+    },
+    {
+      "id": 315,
+      "palabra": "der Kaffee",
+      "traduccion": "el café (bebida)",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Kaffees",
+      "ejemplos": [
+        {
+          "de": "Zum Frühstück trinke ich immer Kaffee.",
+          "es": "Para desayunar siempre tomo café."
+        }
+      ]
+    },
+    {
+      "id": 316,
+      "palabra": "kaputt",
+      "traduccion": "roto/a / estropeado/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Mein Drucker ist kaputt.",
+          "es": "Mi impresora está estropeada."
+        }
+      ]
+    },
+    {
+      "id": 317,
+      "palabra": "die Karte",
+      "traduccion": "la tarjeta / la carta / el mapa",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Karten",
+      "ejemplos": [
+        {
+          "de": "Kann ich auch mit Karte zahlen?",
+          "es": "¿Puedo pagar también con tarjeta?"
+        },
+        {
+          "de": "Bringen Sie mir die Karte, bitte.",
+          "es": "Tráigame la carta, por favor."
+        }
+      ]
+    },
+    {
+      "id": 318,
+      "palabra": "die Kartoffel",
+      "traduccion": "la patata / la papa",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Kartoffeln",
+      "ejemplos": [
+        {
+          "de": "Für Pommes frites braucht man Kartoffeln.",
+          "es": "Para las patatas fritas se necesitan patatas."
+        }
+      ]
+    },
+    {
+      "id": 319,
+      "palabra": "die Kasse",
+      "traduccion": "la caja (registradora)",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Kassen",
+      "ejemplos": [
+        {
+          "de": "Zahlen Sie bitte an der Kasse.",
+          "es": "Por favor, pague en la caja."
+        }
+      ]
+    },
+    {
+      "id": 320,
+      "palabra": "kaufen",
+      "traduccion": "comprar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Tim kauft sich ein neues Auto.",
+          "es": "Tim se compra un coche nuevo."
+        }
+      ]
+    },
+    {
+      "id": 321,
+      "palabra": "kennen",
+      "traduccion": "conocer (a alguien/algo)",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Kennen Sie diese Frau? – Nein, leider nicht.",
+          "es": "¿Conoce a esta mujer? – No, lamentablemente no."
+        }
+      ]
+    },
+    {
+      "id": 322,
+      "palabra": "das Kind",
+      "traduccion": "el niño / el hijo",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Kinder",
+      "ejemplos": [
+        {
+          "de": "Wie viele Kinder haben Sie?",
+          "es": "¿Cuántos hijos tiene?"
+        }
+      ]
+    },
+    {
+      "id": 323,
+      "palabra": "der Kindergarten",
+      "traduccion": "la guardería / el jardín de infancia",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Kindergärten",
+      "ejemplos": [
+        {
+          "de": "Die kleine Laura geht schon in den Kindergarten.",
+          "es": "La pequeña Laura ya va a la guardería."
+        }
+      ]
+    },
+    {
+      "id": 324,
+      "palabra": "das Kino",
+      "traduccion": "el cine",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Kinos",
+      "ejemplos": [
+        {
+          "de": "Wir sehen heute Abend im Kino einen schönen Film.",
+          "es": "Esta noche vemos una buena película en el cine."
+        },
+        {
+          "de": "Ich gehe ins Kino.",
+          "es": "Voy al cine."
+        }
+      ]
+    },
+    {
+      "id": 325,
+      "palabra": "klar",
+      "traduccion": "claro / por supuesto",
+      "categoria": "adjektiv/partikel",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Kommst du mit? – Klar!",
+          "es": "¿Vienes? – ¡Claro!"
+        }
+      ]
+    },
+    {
+      "id": 326,
+      "palabra": "die Kleidung",
+      "traduccion": "la ropa",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Wo finde ich Kleidung?",
+          "es": "¿Dónde encuentro ropa?"
+        }
+      ]
+    },
+    {
+      "id": 327,
+      "palabra": "klein",
+      "traduccion": "pequeño/a / bajo/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Eltville ist eine kleine Stadt am Rhein.",
+          "es": "Eltville es una pequeña ciudad junto al Rin."
+        }
+      ]
+    },
+    {
+      "id": 328,
+      "palabra": "kochen",
+      "traduccion": "cocinar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Herr Georgi kann gut kochen.",
+          "es": "El señor Georgi cocina bien."
+        }
+      ]
+    },
+    {
+      "id": 329,
+      "palabra": "der Koffer",
+      "traduccion": "la maleta",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Koffer",
+      "ejemplos": [
+        {
+          "de": "Ist das Ihr Koffer?",
+          "es": "¿Es esta su maleta?"
+        }
+      ]
+    },
+    {
+      "id": 330,
+      "palabra": "der Kollege",
+      "traduccion": "el compañero de trabajo / el colega",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Kollegen",
+      "ejemplos": [
+        {
+          "de": "Wie heißt die neue Kollegin?",
+          "es": "¿Cómo se llama la nueva compañera?"
+        }
+      ]
+    },
+    {
+      "id": 331,
+      "palabra": "kommen",
+      "traduccion": "venir / llegar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Woher kommen Sie?",
+          "es": "¿De dónde viene usted?"
+        },
+        {
+          "de": "Wann kommt der nächste Bus?",
+          "es": "¿Cuándo llega el próximo autobús?"
+        }
+      ]
+    },
+    {
+      "id": 332,
+      "palabra": "können",
+      "traduccion": "poder / saber",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "ich": "kann",
+        "du": "kannst",
+        "er/sie/es": "kann",
+        "wir": "können",
+        "ihr": "könnt",
+        "sie/Sie": "können"
+      },
+      "ejemplos": [
+        {
+          "de": "Ich kann Deutsch und Russisch.",
+          "es": "Sé alemán y ruso."
+        },
+        {
+          "de": "Können Sie mir helfen?",
+          "es": "¿Puede ayudarme?"
+        }
+      ]
+    },
+    {
+      "id": 333,
+      "palabra": "das Konto",
+      "traduccion": "la cuenta (bancaria)",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Konten",
+      "ejemplos": [
+        {
+          "de": "Das Geld überweisen wir auf Ihr Konto.",
+          "es": "Transferimos el dinero a su cuenta."
+        }
+      ]
+    },
+    {
+      "id": 334,
+      "palabra": "der Kopf",
+      "traduccion": "la cabeza",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Köpfe",
+      "ejemplos": [
+        {
+          "de": "Mein Kopf tut weh!",
+          "es": "¡Me duele la cabeza!"
+        }
+      ]
+    },
+    {
+      "id": 335,
+      "palabra": "kosten",
+      "traduccion": "costar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Wie viel kostet das? – 10 Euro.",
+          "es": "¿Cuánto cuesta eso? – 10 euros."
+        }
+      ]
+    },
+    {
+      "id": 336,
+      "palabra": "krank",
+      "traduccion": "enfermo/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ich kann heute nicht zur Arbeit kommen, ich bin krank.",
+          "es": "Hoy no puedo ir al trabajo, estoy enfermo/a."
+        }
+      ]
+    },
+    {
+      "id": 337,
+      "palabra": "die Küche",
+      "traduccion": "la cocina (habitación)",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Küchen",
+      "ejemplos": [
+        {
+          "de": "Der neue Herd kommt in die Küche.",
+          "es": "El nuevo fogón va a la cocina."
+        }
+      ]
+    },
+    {
+      "id": 338,
+      "palabra": "der Kuchen",
+      "traduccion": "el pastel / la tarta",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Kuchen",
+      "ejemplos": [
+        {
+          "de": "Ich nehme ein Stück Kuchen.",
+          "es": "Tomo un trozo de pastel."
+        }
+      ]
+    },
+    {
+      "id": 339,
+      "palabra": "der Kugelschreiber",
+      "traduccion": "el bolígrafo",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Kugelschreiber",
+      "ejemplos": [
+        {
+          "de": "Hast du einen Kugelschreiber für mich?",
+          "es": "¿Tienes un bolígrafo para mí?"
+        }
+      ]
+    },
+    {
+      "id": 340,
+      "palabra": "der Kühlschrank",
+      "traduccion": "la nevera / el refrigerador",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Kühlschränke",
+      "ejemplos": [
+        {
+          "de": "Haben wir noch Milch? – Ja, im Kühlschrank.",
+          "es": "¿Tenemos leche? – Sí, en la nevera."
+        }
+      ]
+    },
+    {
+      "id": 341,
+      "palabra": "der Kunde",
+      "traduccion": "el cliente",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Kunden",
+      "ejemplos": [
+        {
+          "de": "Einen Moment, bitte. Ich habe eine Kundin.",
+          "es": "Un momento, por favor. Tengo una clienta."
+        }
+      ]
+    },
+    {
+      "id": 342,
+      "palabra": "der Kurs",
+      "traduccion": "el curso",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Kurse",
+      "ejemplos": [
+        {
+          "de": "Der Deutschkurs geht bis zum Sommer.",
+          "es": "El curso de alemán dura hasta el verano."
+        }
+      ]
+    },
+    {
+      "id": 343,
+      "palabra": "kurz",
+      "traduccion": "corto/a / breve",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ricardo hat kurzes Haar.",
+          "es": "Ricardo tiene el pelo corto."
+        }
+      ]
+    },
+    {
+      "id": 344,
+      "palabra": "lachen",
+      "traduccion": "reírse",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Die Kinder lachen viel.",
+          "es": "Los niños se ríen mucho."
+        }
+      ]
+    },
+    {
+      "id": 345,
+      "palabra": "der Laden",
+      "traduccion": "la tienda",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Läden",
+      "ejemplos": [
+        {
+          "de": "Im Buchladen können Sie Bücher kaufen.",
+          "es": "En la librería puede comprar libros."
+        }
+      ]
+    },
+    {
+      "id": 346,
+      "palabra": "lang",
+      "traduccion": "largo/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Die Jeans ist zu lang.",
+          "es": "Los vaqueros son demasiado largos."
+        }
+      ]
+    },
+    {
+      "id": 347,
+      "palabra": "lange",
+      "traduccion": "mucho tiempo / largo rato",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Wie lange fährt der Zug von Hamburg nach Berlin?",
+          "es": "¿Cuánto tarda el tren de Hamburgo a Berlín?"
+        }
+      ]
+    },
+    {
+      "id": 348,
+      "palabra": "langsam",
+      "traduccion": "despacio / lento/a",
+      "categoria": "adjektiv/adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Könnten Sie bitte etwas langsamer sprechen?",
+          "es": "¿Podría hablar un poco más despacio?"
+        }
+      ]
+    },
+    {
+      "id": 349,
+      "palabra": "laufen",
+      "traduccion": "correr / andar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "du": "läufst",
+        "er/sie/es": "läuft"
+      },
+      "ejemplos": [
+        {
+          "de": "Ich möchte nicht Auto fahren, ich möchte laufen.",
+          "es": "No quiero ir en coche, quiero ir andando."
+        }
+      ]
+    },
+    {
+      "id": 350,
+      "palabra": "laut",
+      "traduccion": "alto/a / ruidoso/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Nicht so laut! Das Baby schläft.",
+          "es": "¡No tan alto! El bebé está durmiendo."
+        }
+      ]
+    },
+    {
+      "id": 351,
+      "palabra": "leben",
+      "traduccion": "vivir",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Sie lebt bei ihrer Schwester.",
+          "es": "Vive con su hermana."
+        },
+        {
+          "de": "Das Leben in diesem Land ist teuer.",
+          "es": "La vida en este país es cara."
+        }
+      ]
+    },
+    {
+      "id": 352,
+      "palabra": "die Lebensmittel",
+      "traduccion": "los alimentos / los comestibles",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Lebensmittel bekommen Sie im Supermarkt.",
+          "es": "Los alimentos los encuentra en el supermercado."
+        }
+      ]
+    },
+    {
+      "id": 353,
+      "palabra": "ledig",
+      "traduccion": "soltero/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Sind Sie verheiratet? – Nein. Ledig.",
+          "es": "¿Está casado/a? – No. Soltero/a."
+        }
+      ]
+    },
+    {
+      "id": 354,
+      "palabra": "legen",
+      "traduccion": "poner / colocar (acostado)",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Legen Sie das Buch auf den Tisch.",
+          "es": "Ponga el libro sobre la mesa."
+        }
+      ]
+    },
+    {
+      "id": 355,
+      "palabra": "der Lehrer",
+      "traduccion": "el profesor",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Lehrer",
+      "ejemplos": [
+        {
+          "de": "Unsere Deutschlehrerin heißt Frau Müller.",
+          "es": "Nuestra profesora de alemán se llama señora Müller."
+        }
+      ]
+    },
+    {
+      "id": 356,
+      "palabra": "leicht",
+      "traduccion": "fácil / ligero/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Der Koffer ist leicht.",
+          "es": "La maleta es ligera."
+        },
+        {
+          "de": "Deutsch ist nicht leicht.",
+          "es": "El alemán no es fácil."
+        }
+      ]
+    },
+    {
+      "id": 357,
+      "palabra": "leider",
+      "traduccion": "lamentablemente / por desgracia",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Leider kann ich nicht kommen.",
+          "es": "Lamentablemente no puedo venir."
+        }
+      ]
+    },
+    {
+      "id": 358,
+      "palabra": "leise",
+      "traduccion": "en voz baja / silencioso/a",
+      "categoria": "adjektiv/adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Seid leise. Die anderen schlafen schon.",
+          "es": "Estad callados. Los demás ya están durmiendo."
+        }
+      ]
+    },
+    {
+      "id": 359,
+      "palabra": "lernen",
+      "traduccion": "aprender / estudiar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Wie lange lernen Sie schon Deutsch?",
+          "es": "¿Cuánto tiempo lleva aprendiendo alemán?"
+        }
+      ]
+    },
+    {
+      "id": 360,
+      "palabra": "lesen",
+      "traduccion": "leer",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "du": "liest",
+        "er/sie/es": "liest"
+      },
+      "ejemplos": [
+        {
+          "de": "Ich lese ein Buch von García Márquez.",
+          "es": "Estoy leyendo un libro de García Márquez."
+        }
+      ]
+    },
+    {
+      "id": 361,
+      "palabra": "die Leute",
+      "traduccion": "la gente / las personas",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "In der Disko sind viele Leute.",
+          "es": "En la discoteca hay mucha gente."
+        }
+      ]
+    },
+    {
+      "id": 362,
+      "palabra": "das Licht",
+      "traduccion": "la luz",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Lichter",
+      "ejemplos": [
+        {
+          "de": "Wo macht man hier das Licht an?",
+          "es": "¿Dónde se enciende la luz aquí?"
+        },
+        {
+          "de": "Mach bitte das Licht an!",
+          "es": "¡Enciende la luz, por favor!"
+        }
+      ]
+    },
+    {
+      "id": 363,
+      "palabra": "lieben",
+      "traduccion": "amar / querer",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Ich liebe dich!",
+          "es": "¡Te quiero!"
+        }
+      ]
+    },
+    {
+      "id": 364,
+      "palabra": "das Lied",
+      "traduccion": "la canción",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Lieder",
+      "ejemplos": [
+        {
+          "de": "Welches ist dein Lieblingslied?",
+          "es": "¿Cuál es tu canción favorita?"
+        }
+      ]
+    },
+    {
+      "id": 365,
+      "palabra": "liegen",
+      "traduccion": "estar tumbado / estar situado",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Um neun Uhr liegt Judith noch im Bett.",
+          "es": "A las nueve Judith todavía está en la cama."
+        },
+        {
+          "de": "Frankfurt liegt am Main.",
+          "es": "Frankfurt está a orillas del Meno."
+        }
+      ]
+    },
+    {
+      "id": 366,
+      "palabra": "links",
+      "traduccion": "a la izquierda",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Gehen Sie die nächste Straße links.",
+          "es": "Tome la próxima calle a la izquierda."
+        }
+      ]
+    },
+    {
+      "id": 367,
+      "palabra": "das Lokal",
+      "traduccion": "el local / el bar / el restaurante",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Lokale",
+      "ejemplos": [
+        {
+          "de": "In unserer Straße gibt es ein neues Lokal.",
+          "es": "En nuestra calle hay un nuevo local."
+        }
+      ]
+    },
+    {
+      "id": 368,
+      "palabra": "lustig",
+      "traduccion": "divertido/a / gracioso/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Frau Mertens ist lustig. Sie lacht immer.",
+          "es": "La señora Mertens es divertida. Siempre se ríe."
+        }
+      ]
+    },
+    {
+      "id": 369,
+      "palabra": "machen",
+      "traduccion": "hacer",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Was machst du heute Abend?",
+          "es": "¿Qué haces esta noche?"
+        },
+        {
+          "de": "Das macht 5 Euro 95.",
+          "es": "Son 5 euros 95."
+        },
+        {
+          "de": "Das macht nichts.",
+          "es": "No importa."
+        }
+      ]
+    },
+    {
+      "id": 370,
+      "palabra": "das Mädchen",
+      "traduccion": "la chica / la niña",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Mädchen",
+      "ejemplos": [
+        {
+          "de": "Familie Kurz bekommt ein Baby. – Junge oder Mädchen?",
+          "es": "La familia Kurz va a tener un bebé. – ¿Niño o niña?"
+        }
+      ]
+    },
+    {
+      "id": 371,
+      "palabra": "der Mann",
+      "traduccion": "el hombre / el marido",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Männer",
+      "ejemplos": [
+        {
+          "de": "Mein Mann arbeitet bei der Polizei.",
+          "es": "Mi marido trabaja en la policía."
+        }
+      ]
+    },
+    {
+      "id": 372,
+      "palabra": "das Meer",
+      "traduccion": "el mar",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Meere",
+      "ejemplos": [
+        {
+          "de": "Wir machen Urlaub am Meer.",
+          "es": "Nos vamos de vacaciones al mar."
+        }
+      ]
+    },
+    {
+      "id": 373,
+      "palabra": "mehr",
+      "traduccion": "más",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Dieses Auto kostet 1.000 Euro mehr als das andere.",
+          "es": "Este coche cuesta 1.000 euros más que el otro."
+        }
+      ]
+    },
+    {
+      "id": 374,
+      "palabra": "der Mensch",
+      "traduccion": "la persona / el ser humano",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Menschen",
+      "ejemplos": [
+        {
+          "de": "Die Menschen sind hier anders als bei uns.",
+          "es": "La gente aquí es distinta a la nuestra."
+        }
+      ]
+    },
+    {
+      "id": 375,
+      "palabra": "mieten",
+      "traduccion": "alquilar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Ich möchte ein Auto mieten.",
+          "es": "Me gustaría alquilar un coche."
+        },
+        {
+          "de": "Die Miete für diese Wohnung ist 600 Euro.",
+          "es": "El alquiler de este piso es de 600 euros."
+        }
+      ]
+    },
+    {
+      "id": 376,
+      "palabra": "die Milch",
+      "traduccion": "la leche",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Die Milch steht im Kühlschrank.",
+          "es": "La leche está en la nevera."
+        }
+      ]
+    },
+    {
+      "id": 377,
+      "palabra": "mit",
+      "traduccion": "con",
+      "categoria": "praposicion",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Trinken Sie den Kaffee mit Milch?",
+          "es": "¿Toma el café con leche?"
+        }
+      ]
+    },
+    {
+      "id": 378,
+      "palabra": "mitbringen",
+      "traduccion": "traer / llevar consigo",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Ich gehe einkaufen. Soll ich dir was mitbringen?",
+          "es": "Voy de compras. ¿Quieres que te traiga algo?"
+        }
+      ]
+    },
+    {
+      "id": 379,
+      "palabra": "die Möbel",
+      "traduccion": "los muebles",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Sind die Möbel neu?",
+          "es": "¿Son nuevos los muebles?"
+        }
+      ]
+    },
+    {
+      "id": 380,
+      "palabra": "möchten",
+      "traduccion": "querer / desear (forma amable)",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "ich": "möchte",
+        "du": "möchtest",
+        "er/sie/es": "möchte",
+        "wir": "möchten",
+        "ihr": "möchtet",
+        "sie/Sie": "möchten"
+      },
+      "ejemplos": [
+        {
+          "de": "Was möchten Sie trinken?",
+          "es": "¿Qué desea beber?"
+        },
+        {
+          "de": "Ich möchte gern diesen Film sehen.",
+          "es": "Me gustaría ver esta película."
+        }
+      ]
+    },
+    {
+      "id": 381,
+      "palabra": "mögen",
+      "traduccion": "gustar / querer",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "ich": "mag",
+        "du": "magst",
+        "er/sie/es": "mag",
+        "wir": "mögen",
+        "ihr": "mögt",
+        "sie/Sie": "mögen"
+      },
+      "ejemplos": [
+        {
+          "de": "Magst du Kaffee oder Tee?",
+          "es": "¿Te gusta el café o el té?"
+        }
+      ]
+    },
+    {
+      "id": 382,
+      "palabra": "morgen",
+      "traduccion": "mañana",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Morgen beginnt die Schule um 10 Uhr.",
+          "es": "Mañana la escuela empieza a las 10."
+        }
+      ]
+    },
+    {
+      "id": 383,
+      "palabra": "müde",
+      "traduccion": "cansado/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ich bin müde. Ich gehe schlafen.",
+          "es": "Estoy cansado/a. Me voy a dormir."
+        }
+      ]
+    },
+    {
+      "id": 384,
+      "palabra": "müssen",
+      "traduccion": "tener que / deber",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "ich": "muss",
+        "du": "musst",
+        "er/sie/es": "muss",
+        "wir": "müssen",
+        "ihr": "müsst",
+        "sie/Sie": "müssen"
+      },
+      "ejemplos": [
+        {
+          "de": "Ich muss jeden Tag von 8 bis 18 Uhr arbeiten.",
+          "es": "Tengo que trabajar todos los días de 8 a 18 horas."
+        }
+      ]
+    },
+    {
+      "id": 385,
+      "palabra": "die Mutter",
+      "traduccion": "la madre",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Mütter",
+      "ejemplos": [
+        {
+          "de": "Frau Berghäuser ist die Mutter von Michaela.",
+          "es": "La señora Berghäuser es la madre de Michaela."
+        }
+      ]
+    },
+    {
+      "id": 386,
+      "palabra": "nach",
+      "traduccion": "hacia / después de / a",
+      "categoria": "praposicion",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ich gehe jetzt nach Hause.",
+          "es": "Ahora me voy a casa."
+        },
+        {
+          "de": "Ich fliege nach München.",
+          "es": "Vuelo a Múnich."
+        }
+      ]
+    },
+    {
+      "id": 387,
+      "palabra": "der Name",
+      "traduccion": "el nombre",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Namen",
+      "ejemplos": [
+        {
+          "de": "Mein Name ist Thomas Schmidt.",
+          "es": "Mi nombre es Thomas Schmidt."
+        }
+      ]
+    },
+    {
+      "id": 388,
+      "palabra": "nehmen",
+      "traduccion": "tomar / coger",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "du": "nimmst",
+        "er/sie/es": "nimmt"
+      },
+      "ejemplos": [
+        {
+          "de": "Heute gibt es Hähnchen. Das nehme ich.",
+          "es": "Hoy hay pollo. Me lo pido yo."
+        },
+        {
+          "de": "Ich nehme den Bus.",
+          "es": "Cojo el autobús."
+        }
+      ]
+    },
+    {
+      "id": 389,
+      "palabra": "nein",
+      "traduccion": "no",
+      "categoria": "partikel",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Fährst du auch nach München? – Nein, ich habe keine Zeit.",
+          "es": "¿Tú también vas a Múnich? – No, no tengo tiempo."
+        }
+      ]
+    },
+    {
+      "id": 390,
+      "palabra": "neu",
+      "traduccion": "nuevo/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ich bin der neue Kollege.",
+          "es": "Soy el nuevo compañero."
+        },
+        {
+          "de": "Wir haben eine neue Wohnung.",
+          "es": "Tenemos un piso nuevo."
+        }
+      ]
+    },
+    {
+      "id": 391,
+      "palabra": "nicht",
+      "traduccion": "no (negación)",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Das stimmt nicht.",
+          "es": "Eso no es verdad."
+        }
+      ]
+    },
+    {
+      "id": 392,
+      "palabra": "nie",
+      "traduccion": "nunca",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Er kommt nie pünktlich.",
+          "es": "Nunca llega a tiempo."
+        }
+      ]
+    },
+    {
+      "id": 393,
+      "palabra": "noch",
+      "traduccion": "todavía / aún / otro más",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Vielleicht kommt er noch.",
+          "es": "Quizás todavía venga."
+        },
+        {
+          "de": "Ich habe noch 20 Euro.",
+          "es": "Todavía tengo 20 euros."
+        }
+      ]
+    },
+    {
+      "id": 394,
+      "palabra": "die Nummer",
+      "traduccion": "el número",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Nummern",
+      "ejemplos": [
+        {
+          "de": "Sie haben Zimmer Nummer zwölf.",
+          "es": "Tiene la habitación número doce."
+        },
+        {
+          "de": "Können Sie mir Ihre Nummer geben?",
+          "es": "¿Me puede dar su número?"
+        }
+      ]
+    },
+    {
+      "id": 395,
+      "palabra": "oben",
+      "traduccion": "arriba",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ich wohne oben.",
+          "es": "Vivo en el piso de arriba."
+        }
+      ]
+    },
+    {
+      "id": 396,
+      "palabra": "das Obst",
+      "traduccion": "la fruta",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Im Sommer ist das Obst billig.",
+          "es": "En verano la fruta es barata."
+        }
+      ]
+    },
+    {
+      "id": 397,
+      "palabra": "oder",
+      "traduccion": "o",
+      "categoria": "konjunktion",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Wann können Sie kommen – heute oder morgen?",
+          "es": "¿Cuándo puede venir, hoy o mañana?"
+        }
+      ]
+    },
+    {
+      "id": 398,
+      "palabra": "öffnen",
+      "traduccion": "abrir",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Ich öffne die Tür.",
+          "es": "Abro la puerta."
+        },
+        {
+          "de": "Der Laden ist samstags bis 16.00 Uhr geöffnet.",
+          "es": "La tienda está abierta los sábados hasta las 16 horas."
+        }
+      ]
+    },
+    {
+      "id": 399,
+      "palabra": "oft",
+      "traduccion": "a menudo / con frecuencia",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Petra treffe ich oft.",
+          "es": "Me encuentro con Petra a menudo."
+        }
+      ]
+    },
+    {
+      "id": 400,
+      "palabra": "ohne",
+      "traduccion": "sin",
+      "categoria": "praposicion",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ohne Geld kann er nichts kaufen.",
+          "es": "Sin dinero no puede comprar nada."
+        }
+      ]
+    },
+    {
+      "id": 401,
+      "palabra": "das Öl",
+      "traduccion": "el aceite",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Öle",
+      "ejemplos": [
+        {
+          "de": "Den Salat machen wir ohne Öl.",
+          "es": "Hacemos la ensalada sin aceite."
+        }
+      ]
+    },
+    {
+      "id": 402,
+      "palabra": "das Papier",
+      "traduccion": "el papel",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Papiere",
+      "ejemplos": [
+        {
+          "de": "Hier sind Papier und Bleistift.",
+          "es": "Aquí hay papel y lápiz."
+        }
+      ]
+    },
+    {
+      "id": 403,
+      "palabra": "die Papiere",
+      "traduccion": "los documentos",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Haben Sie Ihre Papiere dabei?",
+          "es": "¿Lleva sus documentos consigo?"
+        }
+      ]
+    },
+    {
+      "id": 404,
+      "palabra": "die Party",
+      "traduccion": "la fiesta",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Partys",
+      "ejemplos": [
+        {
+          "de": "Heute Abend machen wir eine Party.",
+          "es": "Esta noche hacemos una fiesta."
+        }
+      ]
+    },
+    {
+      "id": 405,
+      "palabra": "der Pass",
+      "traduccion": "el pasaporte",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Pässe",
+      "ejemplos": [
+        {
+          "de": "Im Hotel brauchst du deinen Pass.",
+          "es": "En el hotel necesitas tu pasaporte."
+        }
+      ]
+    },
+    {
+      "id": 406,
+      "palabra": "die Pause",
+      "traduccion": "el descanso / la pausa",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Pausen",
+      "ejemplos": [
+        {
+          "de": "Von 12.00 bis 12.30 Uhr haben wir Mittagspause.",
+          "es": "De 12:00 a 12:30 tenemos el descanso del mediodía."
+        }
+      ]
+    },
+    {
+      "id": 407,
+      "palabra": "der Plan",
+      "traduccion": "el plano / el plan",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Pläne",
+      "ejemplos": [
+        {
+          "de": "Ich kaufe mir einen Stadtplan.",
+          "es": "Me compro un plano de la ciudad."
+        }
+      ]
+    },
+    {
+      "id": 408,
+      "palabra": "der Platz",
+      "traduccion": "el sitio / la plaza / el asiento",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Plätze",
+      "ejemplos": [
+        {
+          "de": "Tut mir leid, der Platz ist besetzt.",
+          "es": "Lo siento, el asiento está ocupado."
+        },
+        {
+          "de": "Bitte nehmen Sie Platz!",
+          "es": "¡Siéntese, por favor!"
+        }
+      ]
+    },
+    {
+      "id": 409,
+      "palabra": "die Polizei",
+      "traduccion": "la policía",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Holen Sie die Polizei!",
+          "es": "¡Llame a la policía!"
+        }
+      ]
+    },
+    {
+      "id": 410,
+      "palabra": "die Post",
+      "traduccion": "correos / el correo",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Posten",
+      "ejemplos": [
+        {
+          "de": "Wo ist die Post, bitte?",
+          "es": "¿Dónde está correos, por favor?"
+        },
+        {
+          "de": "Ist Post da?",
+          "es": "¿Hay correo?"
+        }
+      ]
+    },
+    {
+      "id": 411,
+      "palabra": "die Praxis",
+      "traduccion": "la consulta / la clínica",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Praxen",
+      "ejemplos": [
+        {
+          "de": "Die Praxis ist ab acht Uhr geöffnet.",
+          "es": "La consulta está abierta desde las ocho."
+        }
+      ]
+    },
+    {
+      "id": 412,
+      "palabra": "der Preis",
+      "traduccion": "el precio",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Preise",
+      "ejemplos": [
+        {
+          "de": "Die Preise sind hoch.",
+          "es": "Los precios son altos."
+        }
+      ]
+    },
+    {
+      "id": 413,
+      "palabra": "das Problem",
+      "traduccion": "el problema",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Probleme",
+      "ejemplos": [
+        {
+          "de": "Mein Problem ist die Sprache.",
+          "es": "Mi problema es el idioma."
+        }
+      ]
+    },
+    {
+      "id": 414,
+      "palabra": "die Prüfung",
+      "traduccion": "el examen",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Prüfungen",
+      "ejemplos": [
+        {
+          "de": "Die Prüfung ist am Montag um 8.00 Uhr.",
+          "es": "El examen es el lunes a las 8:00."
+        }
+      ]
+    },
+    {
+      "id": 415,
+      "palabra": "pünktlich",
+      "traduccion": "puntual / a tiempo",
+      "categoria": "adjektiv/adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Der Bus fährt pünktlich um acht Uhr.",
+          "es": "El autobús sale puntualmente a las ocho."
+        },
+        {
+          "de": "Herr Müller ist immer pünktlich.",
+          "es": "El señor Müller siempre es puntual."
+        }
+      ]
+    },
+    {
+      "id": 416,
+      "palabra": "Rad fahren",
+      "traduccion": "ir en bicicleta",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Das Kind kann schon Rad fahren.",
+          "es": "El niño ya sabe ir en bicicleta."
+        }
+      ]
+    },
+    {
+      "id": 417,
+      "palabra": "rauchen",
+      "traduccion": "fumar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Ich rauche nicht.",
+          "es": "No fumo."
+        },
+        {
+          "de": "Hier darf man nicht rauchen.",
+          "es": "Aquí no se puede fumar."
+        }
+      ]
+    },
+    {
+      "id": 418,
+      "palabra": "die Rechnung",
+      "traduccion": "la cuenta / la factura",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Rechnungen",
+      "ejemplos": [
+        {
+          "de": "Die Rechnung, bitte.",
+          "es": "La cuenta, por favor."
+        }
+      ]
+    },
+    {
+      "id": 419,
+      "palabra": "rechts",
+      "traduccion": "a la derecha",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Die Schillerstraße ist hier rechts.",
+          "es": "La Schillerstraße está a la derecha."
+        }
+      ]
+    },
+    {
+      "id": 420,
+      "palabra": "regnen",
+      "traduccion": "llover",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Heute regnet es.",
+          "es": "Hoy llueve."
+        },
+        {
+          "de": "Bei diesem Regen gehe ich nicht raus.",
+          "es": "Con esta lluvia no salgo."
+        }
+      ]
+    },
+    {
+      "id": 421,
+      "palabra": "der Reis",
+      "traduccion": "el arroz",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ich esse gern Reis.",
+          "es": "Me gusta el arroz."
+        }
+      ]
+    },
+    {
+      "id": 422,
+      "palabra": "reisen",
+      "traduccion": "viajar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Ich reise gern.",
+          "es": "Me gusta viajar."
+        },
+        {
+          "de": "Wir machen eine Reise nach Österreich.",
+          "es": "Hacemos un viaje a Austria."
+        }
+      ]
+    },
+    {
+      "id": 423,
+      "palabra": "reparieren",
+      "traduccion": "reparar / arreglar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Er hat das Fahrrad repariert.",
+          "es": "Ha arreglado la bicicleta."
+        },
+        {
+          "de": "Die Reparatur ist sehr teuer.",
+          "es": "La reparación es muy cara."
+        }
+      ]
+    },
+    {
+      "id": 424,
+      "palabra": "das Restaurant",
+      "traduccion": "el restaurante",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Restaurants",
+      "ejemplos": [
+        {
+          "de": "Wir essen heute in einem Restaurant.",
+          "es": "Hoy comemos en un restaurante."
+        }
+      ]
+    },
+    {
+      "id": 425,
+      "palabra": "richtig",
+      "traduccion": "correcto/a / verdadero/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Habe ich das richtig verstanden?",
+          "es": "¿Lo he entendido bien?"
+        },
+        {
+          "de": "Das ist richtig.",
+          "es": "Eso está bien / es correcto."
+        }
+      ]
+    },
+    {
+      "id": 426,
+      "palabra": "ruhig",
+      "traduccion": "tranquilo/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ich möchte ein ruhiges Zimmer.",
+          "es": "Quiero una habitación tranquila."
+        }
+      ]
+    },
+    {
+      "id": 427,
+      "palabra": "der Saft",
+      "traduccion": "el zumo / el jugo",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Säfte",
+      "ejemplos": [
+        {
+          "de": "Möchtest du einen Apfelsaft?",
+          "es": "¿Quieres un zumo de manzana?"
+        }
+      ]
+    },
+    {
+      "id": 428,
+      "palabra": "sagen",
+      "traduccion": "decir",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Sag mal, wie geht es dir denn?",
+          "es": "Oye, ¿cómo estás?"
+        },
+        {
+          "de": "Wie sagt man das auf Deutsch?",
+          "es": "¿Cómo se dice eso en alemán?"
+        }
+      ]
+    },
+    {
+      "id": 429,
+      "palabra": "der Salat",
+      "traduccion": "la ensalada",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Salate",
+      "ejemplos": [
+        {
+          "de": "Wie schmeckt dir der Salat?",
+          "es": "¿Qué tal está la ensalada?"
+        }
+      ]
+    },
+    {
+      "id": 430,
+      "palabra": "das Salz",
+      "traduccion": "la sal",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Herr Ober, kann ich bitte Salz haben?",
+          "es": "Camarero, ¿me puede traer sal?"
+        }
+      ]
+    },
+    {
+      "id": 431,
+      "palabra": "die S-Bahn",
+      "traduccion": "el tren de cercanías",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "S-Bahnen",
+      "ejemplos": [
+        {
+          "de": "Ich nehme lieber die S-Bahn.",
+          "es": "Prefiero coger el tren de cercanías."
+        }
+      ]
+    },
+    {
+      "id": 432,
+      "palabra": "der Schalter",
+      "traduccion": "la ventanilla / el mostrador",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Schalter",
+      "ejemplos": [
+        {
+          "de": "Gehen Sie bitte zum Schalter drei!",
+          "es": "¡Vaya por favor a la ventanilla tres!"
+        }
+      ]
+    },
+    {
+      "id": 433,
+      "palabra": "schicken",
+      "traduccion": "enviar / mandar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Bitte schicken Sie mir eine E-Mail.",
+          "es": "Por favor, envíeme un correo electrónico."
+        }
+      ]
+    },
+    {
+      "id": 434,
+      "palabra": "schlafen",
+      "traduccion": "dormir",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "du": "schläfst",
+        "er/sie/es": "schläft"
+      },
+      "ejemplos": [
+        {
+          "de": "Ich schlafe meistens acht Stunden.",
+          "es": "Normalmente duermo ocho horas."
+        }
+      ]
+    },
+    {
+      "id": 435,
+      "palabra": "schlecht",
+      "traduccion": "malo/a / mal",
+      "categoria": "adjektiv/adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Mir ist schlecht!",
+          "es": "¡Me encuentro mal! / ¡Me siento mal!"
+        },
+        {
+          "de": "Wir haben schlechtes Wetter.",
+          "es": "Tenemos mal tiempo."
+        }
+      ]
+    },
+    {
+      "id": 436,
+      "palabra": "schließen",
+      "traduccion": "cerrar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Bitte, schließen Sie die Tür.",
+          "es": "Por favor, cierre la puerta."
+        },
+        {
+          "de": "Die Bank hat am Samstag geschlossen.",
+          "es": "El banco está cerrado el sábado."
+        }
+      ]
+    },
+    {
+      "id": 437,
+      "palabra": "der Schlüssel",
+      "traduccion": "la llave",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Schlüssel",
+      "ejemplos": [
+        {
+          "de": "Ich gebe Ihnen noch den Zimmerschlüssel.",
+          "es": "Le doy también la llave de la habitación."
+        }
+      ]
+    },
+    {
+      "id": 438,
+      "palabra": "schmecken",
+      "traduccion": "saber (al paladar) / estar bueno",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Schmeckt das gut?",
+          "es": "¿Está bueno?"
+        },
+        {
+          "de": "Das Essen schmeckt wunderbar.",
+          "es": "La comida está deliciosa."
+        }
+      ]
+    },
+    {
+      "id": 439,
+      "palabra": "schnell",
+      "traduccion": "rápido/a / deprisa",
+      "categoria": "adjektiv/adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Er fährt schnell.",
+          "es": "Conduce rápido."
+        }
+      ]
+    },
+    {
+      "id": 440,
+      "palabra": "schön",
+      "traduccion": "bonito/a / hermoso/a / agradable",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Das ist sehr schön.",
+          "es": "Eso es muy bonito."
+        },
+        {
+          "de": "Schönen Urlaub!",
+          "es": "¡Que tengas buenas vacaciones!"
+        }
+      ]
+    },
+    {
+      "id": 441,
+      "palabra": "der Schrank",
+      "traduccion": "el armario",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Schränke",
+      "ejemplos": [
+        {
+          "de": "Die Gläser stehen im Schrank.",
+          "es": "Los vasos están en el armario."
+        }
+      ]
+    },
+    {
+      "id": 442,
+      "palabra": "schreiben",
+      "traduccion": "escribir",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Er schreibt jeden Tag fünfzig E-Mails.",
+          "es": "Escribe cincuenta correos electrónicos al día."
+        }
+      ]
+    },
+    {
+      "id": 443,
+      "palabra": "der Schuh",
+      "traduccion": "el zapato",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Schuhe",
+      "ejemplos": [
+        {
+          "de": "Zieh die Schuhe aus!",
+          "es": "¡Quítate los zapatos!"
+        }
+      ]
+    },
+    {
+      "id": 444,
+      "palabra": "die Schule",
+      "traduccion": "la escuela / el colegio",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Schulen",
+      "ejemplos": [
+        {
+          "de": "Meine Tochter geht schon in die Schule.",
+          "es": "Mi hija ya va al colegio."
+        }
+      ]
+    },
+    {
+      "id": 445,
+      "palabra": "schwer",
+      "traduccion": "pesado/a / difícil",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ist Ihr Gepäck sehr schwer?",
+          "es": "¿Pesa mucho su equipaje?"
+        },
+        {
+          "de": "Das ist eine schwere Arbeit.",
+          "es": "Es un trabajo difícil."
+        }
+      ]
+    },
+    {
+      "id": 446,
+      "palabra": "die Schwester",
+      "traduccion": "la hermana",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Schwestern",
+      "ejemplos": [
+        {
+          "de": "Meine Schwester kommt am Dienstag.",
+          "es": "Mi hermana llega el martes."
+        }
+      ]
+    },
+    {
+      "id": 447,
+      "palabra": "schwimmen",
+      "traduccion": "nadar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Ich schwimme jeden Tag einen Kilometer.",
+          "es": "Nado un kilómetro al día."
+        }
+      ]
+    },
+    {
+      "id": 448,
+      "palabra": "sehen",
+      "traduccion": "ver",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "du": "siehst",
+        "er/sie/es": "sieht"
+      },
+      "ejemplos": [
+        {
+          "de": "Ich kann dich nicht sehen.",
+          "es": "No te veo."
+        },
+        {
+          "de": "Ich möchte gern diesen Film sehen.",
+          "es": "Me gustaría ver esta película."
+        }
+      ]
+    },
+    {
+      "id": 449,
+      "palabra": "sehr",
+      "traduccion": "muy / mucho",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Danke sehr!",
+          "es": "¡Muchísimas gracias!"
+        },
+        {
+          "de": "Das ist sehr schwer.",
+          "es": "Eso es muy difícil."
+        }
+      ]
+    },
+    {
+      "id": 450,
+      "palabra": "sein",
+      "traduccion": "ser / estar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "ich": "bin",
+        "du": "bist",
+        "er/sie/es": "ist",
+        "wir": "sind",
+        "ihr": "seid",
+        "sie/Sie": "sind"
+      },
+      "ejemplos": [
+        {
+          "de": "Ich bin dreiundzwanzig.",
+          "es": "Tengo veintitrés años."
+        },
+        {
+          "de": "Herr Müller ist in seinem Zimmer.",
+          "es": "El señor Müller está en su habitación."
+        }
+      ]
+    },
+    {
+      "id": 451,
+      "palabra": "seit",
+      "traduccion": "desde / hace",
+      "categoria": "praposicion",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ich wohne seit drei Jahren in Köln.",
+          "es": "Vivo en Colonia desde hace tres años."
+        }
+      ]
+    },
+    {
+      "id": 452,
+      "palabra": "sich",
+      "traduccion": "se (reflexivo)",
+      "categoria": "pronomen",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Sie müssen sich erst anmelden.",
+          "es": "Primero tiene que registrarse."
+        }
+      ]
+    },
+    {
+      "id": 453,
+      "palabra": "so",
+      "traduccion": "así / tan",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Sie müssen das so machen!",
+          "es": "¡Tiene que hacerlo así!"
+        },
+        {
+          "de": "Fahren Sie bitte nicht so schnell!",
+          "es": "¡No conduzca tan rápido, por favor!"
+        }
+      ]
+    },
+    {
+      "id": 454,
+      "palabra": "sofort",
+      "traduccion": "enseguida / inmediatamente",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Bitte antworten Sie sofort.",
+          "es": "Por favor, conteste enseguida."
+        }
+      ]
+    },
+    {
+      "id": 455,
+      "palabra": "der Sohn",
+      "traduccion": "el hijo",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Söhne",
+      "ejemplos": [
+        {
+          "de": "Das ist Hans, mein Sohn.",
+          "es": "Este es Hans, mi hijo."
+        }
+      ]
+    },
+    {
+      "id": 456,
+      "palabra": "sollen",
+      "traduccion": "deber / se supone que",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "ich": "soll",
+        "du": "sollst",
+        "er/sie/es": "soll",
+        "wir": "sollen",
+        "ihr": "sollt",
+        "sie/Sie": "sollen"
+      },
+      "ejemplos": [
+        {
+          "de": "Soll ich kommen?",
+          "es": "¿Debo venir? / ¿Tengo que venir?"
+        },
+        {
+          "de": "Was soll ich mitbringen?",
+          "es": "¿Qué tengo que traer?"
+        }
+      ]
+    },
+    {
+      "id": 457,
+      "palabra": "die Sonne",
+      "traduccion": "el sol",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Sonnen",
+      "ejemplos": [
+        {
+          "de": "Die Sonne scheint.",
+          "es": "Brilla el sol."
+        }
+      ]
+    },
+    {
+      "id": 458,
+      "palabra": "spät",
+      "traduccion": "tarde",
+      "categoria": "adjektiv/adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Es ist schon spät, ich muss gehen.",
+          "es": "Ya es tarde, tengo que irme."
+        }
+      ]
+    },
+    {
+      "id": 459,
+      "palabra": "die Speisekarte",
+      "traduccion": "la carta (del restaurante)",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Speisekarten",
+      "ejemplos": [
+        {
+          "de": "Bringen Sie mir die Speisekarte, bitte.",
+          "es": "Tráigame la carta, por favor."
+        }
+      ]
+    },
+    {
+      "id": 460,
+      "palabra": "spielen",
+      "traduccion": "jugar / tocar (instrumento)",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Die Kinder spielen draußen.",
+          "es": "Los niños juegan fuera."
+        },
+        {
+          "de": "Spielen Sie Karten?",
+          "es": "¿Juegan a las cartas?"
+        }
+      ]
+    },
+    {
+      "id": 461,
+      "palabra": "der Sport",
+      "traduccion": "el deporte",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Sportarten",
+      "ejemplos": [
+        {
+          "de": "Ich mache viel Sport.",
+          "es": "Hago mucho deporte."
+        }
+      ]
+    },
+    {
+      "id": 462,
+      "palabra": "die Sprache",
+      "traduccion": "el idioma / la lengua",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Sprachen",
+      "ejemplos": [
+        {
+          "de": "Welche Sprachen sprichst du?",
+          "es": "¿Qué idiomas hablas?"
+        }
+      ]
+    },
+    {
+      "id": 463,
+      "palabra": "sprechen",
+      "traduccion": "hablar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "du": "sprichst",
+        "er/sie/es": "spricht"
+      },
+      "ejemplos": [
+        {
+          "de": "Kann ich mit Herrn Klein sprechen?",
+          "es": "¿Puedo hablar con el señor Klein?"
+        },
+        {
+          "de": "Könnten Sie bitte langsamer sprechen?",
+          "es": "¿Podría hablar más despacio?"
+        }
+      ]
+    },
+    {
+      "id": 464,
+      "palabra": "die Stadt",
+      "traduccion": "la ciudad",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Städte",
+      "ejemplos": [
+        {
+          "de": "Heidelberg ist eine alte Stadt.",
+          "es": "Heidelberg es una ciudad antigua."
+        }
+      ]
+    },
+    {
+      "id": 465,
+      "palabra": "stehen",
+      "traduccion": "estar de pie / estar (situado)",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Der Bus steht schon an der Haltestelle.",
+          "es": "El autobús ya está en la parada."
+        },
+        {
+          "de": "Es steht in der Zeitung.",
+          "es": "Está en el periódico."
+        }
+      ]
+    },
+    {
+      "id": 466,
+      "palabra": "stellen",
+      "traduccion": "poner / colocar (de pie)",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Stell die Tasche rechts in die Ecke!",
+          "es": "¡Pon el bolso en el rincón de la derecha!"
+        }
+      ]
+    },
+    {
+      "id": 467,
+      "palabra": "die Straße",
+      "traduccion": "la calle",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Straßen",
+      "ejemplos": [
+        {
+          "de": "In welcher Straße wohnen Sie?",
+          "es": "¿En qué calle vive?"
+        }
+      ]
+    },
+    {
+      "id": 468,
+      "palabra": "die Straßenbahn",
+      "traduccion": "el tranvía",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Straßenbahnen",
+      "ejemplos": [
+        {
+          "de": "Wo fährt die Straßenbahn ab?",
+          "es": "¿De dónde sale el tranvía?"
+        }
+      ]
+    },
+    {
+      "id": 469,
+      "palabra": "studieren",
+      "traduccion": "estudiar (en la universidad)",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Ich studiere in Mainz.",
+          "es": "Estudio en Maguncia."
+        }
+      ]
+    },
+    {
+      "id": 470,
+      "palabra": "die Stunde",
+      "traduccion": "la hora / la clase",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Stunden",
+      "ejemplos": [
+        {
+          "de": "Ich bin in einer Stunde zurück.",
+          "es": "Vuelvo en una hora."
+        }
+      ]
+    },
+    {
+      "id": 471,
+      "palabra": "suchen",
+      "traduccion": "buscar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Suchst du etwas?",
+          "es": "¿Buscas algo?"
+        },
+        {
+          "de": "Mein Bruder sucht Arbeit.",
+          "es": "Mi hermano busca trabajo."
+        }
+      ]
+    },
+    {
+      "id": 472,
+      "palabra": "tanzen",
+      "traduccion": "bailar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Tanzen Sie gern?",
+          "es": "¿Le gusta bailar?"
+        }
+      ]
+    },
+    {
+      "id": 473,
+      "palabra": "die Tasche",
+      "traduccion": "el bolso / la bolsa",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Taschen",
+      "ejemplos": [
+        {
+          "de": "Ich habe die Schlüssel in der Tasche.",
+          "es": "Tengo las llaves en el bolso."
+        }
+      ]
+    },
+    {
+      "id": 474,
+      "palabra": "das Taxi",
+      "traduccion": "el taxi",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Taxis",
+      "ejemplos": [
+        {
+          "de": "Es gibt heute keinen Bus mehr. Er fährt mit dem Taxi.",
+          "es": "Ya no hay autobús. Va en taxi."
+        }
+      ]
+    },
+    {
+      "id": 475,
+      "palabra": "der Tee",
+      "traduccion": "el té",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Tees",
+      "ejemplos": [
+        {
+          "de": "Ich trinke morgens immer Tee.",
+          "es": "Por las mañanas siempre tomo té."
+        }
+      ]
+    },
+    {
+      "id": 476,
+      "palabra": "telefonieren",
+      "traduccion": "llamar por teléfono / hablar por teléfono",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Darf ich mal telefonieren?",
+          "es": "¿Puedo usar el teléfono?"
+        },
+        {
+          "de": "Haben Sie Telefon?",
+          "es": "¿Tiene teléfono?"
+        }
+      ]
+    },
+    {
+      "id": 477,
+      "palabra": "der Termin",
+      "traduccion": "la cita / el plazo",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Termine",
+      "ejemplos": [
+        {
+          "de": "Am besten machen wir sofort einen Termin.",
+          "es": "Lo mejor es que hagamos una cita enseguida."
+        },
+        {
+          "de": "Morgen habe ich einen Termin beim Arzt.",
+          "es": "Mañana tengo cita con el médico."
+        }
+      ]
+    },
+    {
+      "id": 478,
+      "palabra": "teuer",
+      "traduccion": "caro/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Das ist mir zu teuer.",
+          "es": "Eso me parece demasiado caro."
+        }
+      ]
+    },
+    {
+      "id": 479,
+      "palabra": "der Text",
+      "traduccion": "el texto",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Texte",
+      "ejemplos": [
+        {
+          "de": "Lesen Sie bitte diesen Text.",
+          "es": "Por favor, lea este texto."
+        }
+      ]
+    },
+    {
+      "id": 480,
+      "palabra": "das Ticket",
+      "traduccion": "el billete / el ticket",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Tickets",
+      "ejemplos": [
+        {
+          "de": "Wie viel kostet das Ticket?",
+          "es": "¿Cuánto cuesta el billete?"
+        }
+      ]
+    },
+    {
+      "id": 481,
+      "palabra": "der Tisch",
+      "traduccion": "la mesa",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Tische",
+      "ejemplos": [
+        {
+          "de": "Die Fotos liegen auf dem Tisch.",
+          "es": "Las fotos están sobre la mesa."
+        }
+      ]
+    },
+    {
+      "id": 482,
+      "palabra": "die Tochter",
+      "traduccion": "la hija",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Töchter",
+      "ejemplos": [
+        {
+          "de": "Das ist meine Tochter Katharina.",
+          "es": "Esta es mi hija Katharina."
+        }
+      ]
+    },
+    {
+      "id": 483,
+      "palabra": "die Toilette",
+      "traduccion": "el baño / el servicio",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Toiletten",
+      "ejemplos": [
+        {
+          "de": "Wo ist die Toilette, bitte?",
+          "es": "¿Dónde está el baño, por favor?"
+        }
+      ]
+    },
+    {
+      "id": 484,
+      "palabra": "die Tomate",
+      "traduccion": "el tomate",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Tomaten",
+      "ejemplos": [
+        {
+          "de": "Die Tomate ist noch grün.",
+          "es": "El tomate todavía está verde."
+        }
+      ]
+    },
+    {
+      "id": 485,
+      "palabra": "(sich) treffen",
+      "traduccion": "encontrarse / quedar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "du": "triffst",
+        "er/sie/es": "trifft"
+      },
+      "ejemplos": [
+        {
+          "de": "Ich treffe in der Stadt einen Kollegen.",
+          "es": "Me encuentro con un compañero en el centro."
+        },
+        {
+          "de": "Wir treffen uns immer freitags.",
+          "es": "Quedamos siempre los viernes."
+        }
+      ]
+    },
+    {
+      "id": 486,
+      "palabra": "die Treppe",
+      "traduccion": "la escalera",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Treppen",
+      "ejemplos": [
+        {
+          "de": "Die Toilette? Die Treppe hoch und dann links.",
+          "es": "¿El baño? Suba la escalera y luego a la izquierda."
+        }
+      ]
+    },
+    {
+      "id": 487,
+      "palabra": "trinken",
+      "traduccion": "beber",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Möchtest du etwas trinken?",
+          "es": "¿Quieres beber algo?"
+        },
+        {
+          "de": "Was trinken Sie?",
+          "es": "¿Qué bebe?"
+        }
+      ]
+    },
+    {
+      "id": 488,
+      "palabra": "tschüss",
+      "traduccion": "adiós / chao (informal)",
+      "categoria": "frase",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Junge Leute sagen meistens \"tschüss!\"",
+          "es": "Los jóvenes suelen decir \"¡chao!\""
+        }
+      ]
+    },
+    {
+      "id": 489,
+      "palabra": "über",
+      "traduccion": "sobre / encima de / por",
+      "categoria": "praposicion",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Gehen Sie hier über die Straße.",
+          "es": "Cruce la calle por aquí."
+        },
+        {
+          "de": "Er wohnt über uns.",
+          "es": "Vive encima de nosotros."
+        }
+      ]
+    },
+    {
+      "id": 490,
+      "palabra": "übernachten",
+      "traduccion": "pasar la noche / pernoctar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Du kannst bei mir übernachten.",
+          "es": "Puedes quedarte a dormir en mi casa."
+        }
+      ]
+    },
+    {
+      "id": 491,
+      "palabra": "überweisen",
+      "traduccion": "transferir (dinero)",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Sie können das Geld auch überweisen.",
+          "es": "También puede transferir el dinero."
+        }
+      ]
+    },
+    {
+      "id": 492,
+      "palabra": "die Uhr",
+      "traduccion": "el reloj / las... horas",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Uhren",
+      "ejemplos": [
+        {
+          "de": "Es ist vier Uhr.",
+          "es": "Son las cuatro."
+        },
+        {
+          "de": "Um wie viel Uhr?",
+          "es": "¿A qué hora?"
+        }
+      ]
+    },
+    {
+      "id": 493,
+      "palabra": "um",
+      "traduccion": "a (hora) / alrededor de",
+      "categoria": "praposicion",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Er kommt um sieben Uhr.",
+          "es": "Llega a las siete."
+        }
+      ]
+    },
+    {
+      "id": 494,
+      "palabra": "umziehen",
+      "traduccion": "mudarse / cambiarse (de ropa)",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Nächsten Monat ziehen wir um.",
+          "es": "El mes que viene nos mudamos."
+        }
+      ]
+    },
+    {
+      "id": 495,
+      "palabra": "unten",
+      "traduccion": "abajo",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Er wohnt ganz unten im Haus.",
+          "es": "Vive en la planta baja del edificio."
+        }
+      ]
+    },
+    {
+      "id": 496,
+      "palabra": "der Unterricht",
+      "traduccion": "la clase / las clases",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Unterrichte",
+      "ejemplos": [
+        {
+          "de": "Wir haben Unterricht von 8.00 bis 12.00 Uhr.",
+          "es": "Tenemos clase de 8:00 a 12:00."
+        }
+      ]
+    },
+    {
+      "id": 497,
+      "palabra": "unterschreiben",
+      "traduccion": "firmar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Wo muss ich unterschreiben?",
+          "es": "¿Dónde tengo que firmar?"
+        },
+        {
+          "de": "Hier fehlt noch Ihre Unterschrift.",
+          "es": "Aquí falta todavía su firma."
+        }
+      ]
+    },
+    {
+      "id": 498,
+      "palabra": "der Urlaub",
+      "traduccion": "las vacaciones",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Urlaube",
+      "ejemplos": [
+        {
+          "de": "Ich nehme im September Urlaub.",
+          "es": "En septiembre me cojo vacaciones."
+        },
+        {
+          "de": "Schönen Urlaub!",
+          "es": "¡Que disfrutes las vacaciones!"
+        }
+      ]
+    },
+    {
+      "id": 499,
+      "palabra": "der Vater",
+      "traduccion": "el padre",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Väter",
+      "ejemplos": [
+        {
+          "de": "Mein Vater ist Arbeiter.",
+          "es": "Mi padre es obrero."
+        }
+      ]
+    },
+    {
+      "id": 500,
+      "palabra": "verboten",
+      "traduccion": "prohibido/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Hier ist Rauchen verboten.",
+          "es": "Aquí está prohibido fumar."
+        }
+      ]
+    },
+    {
+      "id": 501,
+      "palabra": "verdienen",
+      "traduccion": "ganar (dinero)",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Ich verdiene 1.500 Euro im Monat.",
+          "es": "Gano 1.500 euros al mes."
+        }
+      ]
+    },
+    {
+      "id": 502,
+      "palabra": "verheiratet",
+      "traduccion": "casado/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ich bin verheiratet und habe drei Kinder.",
+          "es": "Estoy casado/a y tengo tres hijos."
+        }
+      ]
+    },
+    {
+      "id": 503,
+      "palabra": "verkaufen",
+      "traduccion": "vender",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Er verkauft sein altes Auto.",
+          "es": "Vende su coche viejo."
+        },
+        {
+          "de": "Meine Mutter ist Verkäuferin im Kaufhaus.",
+          "es": "Mi madre es vendedora en unos grandes almacenes."
+        }
+      ]
+    },
+    {
+      "id": 504,
+      "palabra": "verstehen",
+      "traduccion": "entender / comprender",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Können Sie mich verstehen?",
+          "es": "¿Me entiende?"
+        },
+        {
+          "de": "Ich habe leider nur wenig verstanden.",
+          "es": "Lamentablemente solo he entendido poco."
+        }
+      ]
+    },
+    {
+      "id": 505,
+      "palabra": "viel",
+      "traduccion": "mucho/a/os/as",
+      "categoria": "adjektiv/adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Hier regnet es viel.",
+          "es": "Aquí llueve mucho."
+        },
+        {
+          "de": "Vielen Dank!",
+          "es": "¡Muchas gracias!"
+        }
+      ]
+    },
+    {
+      "id": 506,
+      "palabra": "vielleicht",
+      "traduccion": "quizás / tal vez",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ich komme vielleicht mit dem Bus.",
+          "es": "Quizás vaya en autobús."
+        }
+      ]
+    },
+    {
+      "id": 507,
+      "palabra": "von",
+      "traduccion": "de / desde / de parte de",
+      "categoria": "praposicion",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Das Auto von Felix ist kaputt.",
+          "es": "El coche de Felix está estropeado."
+        },
+        {
+          "de": "Er kommt gerade von Köln.",
+          "es": "Viene ahora mismo de Colonia."
+        }
+      ]
+    },
+    {
+      "id": 508,
+      "palabra": "vor",
+      "traduccion": "antes de / delante de / hace",
+      "categoria": "praposicion",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Das Auto steht vor der Tür.",
+          "es": "El coche está delante de la puerta."
+        },
+        {
+          "de": "Der Termin war vor einer Stunde.",
+          "es": "La cita fue hace una hora."
+        }
+      ]
+    },
+    {
+      "id": 509,
+      "palabra": "der Vorname",
+      "traduccion": "el nombre de pila",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Vornamen",
+      "ejemplos": [
+        {
+          "de": "Mein Vorname ist Eva.",
+          "es": "Mi nombre de pila es Eva."
+        }
+      ]
+    },
+    {
+      "id": 510,
+      "palabra": "(sich) vorstellen",
+      "traduccion": "presentarse / imaginarse",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Können Sie sich bitte vorstellen?",
+          "es": "¿Puede presentarse?"
+        }
+      ]
+    },
+    {
+      "id": 511,
+      "palabra": "wandern",
+      "traduccion": "hacer senderismo / caminar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Wir wandern um den Chiemsee.",
+          "es": "Hacemos senderismo alrededor del Chiemsee."
+        }
+      ]
+    },
+    {
+      "id": 512,
+      "palabra": "wann",
+      "traduccion": "cuándo",
+      "categoria": "fragewort",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Wann bist du fertig?",
+          "es": "¿Cuándo terminas?"
+        },
+        {
+          "de": "Wann sind Sie geboren?",
+          "es": "¿Cuándo nació?"
+        }
+      ]
+    },
+    {
+      "id": 513,
+      "palabra": "warten",
+      "traduccion": "esperar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Können Sie ein paar Minuten warten?",
+          "es": "¿Puede esperar unos minutos?"
+        },
+        {
+          "de": "Auf wen warten Sie?",
+          "es": "¿A quién espera?"
+        }
+      ]
+    },
+    {
+      "id": 514,
+      "palabra": "warum",
+      "traduccion": "por qué",
+      "categoria": "fragewort",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Warum kommt er nicht?",
+          "es": "¿Por qué no viene?"
+        }
+      ]
+    },
+    {
+      "id": 515,
+      "palabra": "was",
+      "traduccion": "qué / lo que",
+      "categoria": "fragewort",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Was ist das?",
+          "es": "¿Qué es eso?"
+        },
+        {
+          "de": "Was möchten Sie?",
+          "es": "¿Qué desea?"
+        }
+      ]
+    },
+    {
+      "id": 516,
+      "palabra": "(sich) waschen",
+      "traduccion": "lavarse / lavar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "du": "wäschst",
+        "er/sie/es": "wäscht"
+      },
+      "ejemplos": [
+        {
+          "de": "Wo kann ich mir die Hände waschen?",
+          "es": "¿Dónde me puedo lavar las manos?"
+        }
+      ]
+    },
+    {
+      "id": 517,
+      "palabra": "das Wasser",
+      "traduccion": "el agua",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ein Glas Wasser, bitte.",
+          "es": "Un vaso de agua, por favor."
+        }
+      ]
+    },
+    {
+      "id": 518,
+      "palabra": "weh tun",
+      "traduccion": "doler",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "er/sie/es": "tut weh",
+        "nota": "siempre impersonal: es tut weh"
+      },
+      "ejemplos": [
+        {
+          "de": "Mein Bein tut weh.",
+          "es": "Me duele la pierna."
+        },
+        {
+          "de": "Was tut Ihnen weh?",
+          "es": "¿Qué le duele?"
+        }
+      ]
+    },
+    {
+      "id": 519,
+      "palabra": "der Wein",
+      "traduccion": "el vino",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Weine",
+      "ejemplos": [
+        {
+          "de": "Nein danke, ich möchte keinen Wein.",
+          "es": "No, gracias, no quiero vino."
+        }
+      ]
+    },
+    {
+      "id": 520,
+      "palabra": "weit",
+      "traduccion": "lejos",
+      "categoria": "adjektiv/adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Zum Bahnhof ist es nicht weit.",
+          "es": "La estación no está lejos."
+        }
+      ]
+    },
+    {
+      "id": 521,
+      "palabra": "die Welt",
+      "traduccion": "el mundo",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Welten",
+      "ejemplos": [
+        {
+          "de": "Es gibt viele Probleme auf der Welt.",
+          "es": "Hay muchos problemas en el mundo."
+        }
+      ]
+    },
+    {
+      "id": 522,
+      "palabra": "wenig",
+      "traduccion": "poco/a/os/as",
+      "categoria": "adjektiv/adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ich habe leider nur wenig verstanden.",
+          "es": "Lamentablemente solo he entendido poco."
+        }
+      ]
+    },
+    {
+      "id": 523,
+      "palabra": "wer",
+      "traduccion": "quién",
+      "categoria": "fragewort",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Wer ist das?",
+          "es": "¿Quién es?"
+        }
+      ]
+    },
+    {
+      "id": 524,
+      "palabra": "das Wetter",
+      "traduccion": "el tiempo (meteorológico)",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Wir hatten schlechtes Wetter.",
+          "es": "Tuvimos mal tiempo."
+        },
+        {
+          "de": "Wie ist das Wetter heute?",
+          "es": "¿Qué tiempo hace hoy?"
+        }
+      ]
+    },
+    {
+      "id": 525,
+      "palabra": "wichtig",
+      "traduccion": "importante",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Dieses Formular ist sehr wichtig.",
+          "es": "Este formulario es muy importante."
+        }
+      ]
+    },
+    {
+      "id": 526,
+      "palabra": "wie",
+      "traduccion": "cómo / como / qué",
+      "categoria": "fragewort",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Wie heißt du?",
+          "es": "¿Cómo te llamas?"
+        },
+        {
+          "de": "Wie groß ist die Wohnung?",
+          "es": "¿Cuánto mide el piso?"
+        }
+      ]
+    },
+    {
+      "id": 527,
+      "palabra": "wiederholen",
+      "traduccion": "repetir",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Können Sie das bitte wiederholen?",
+          "es": "¿Puede repetir eso?"
+        }
+      ]
+    },
+    {
+      "id": 528,
+      "palabra": "willkommen",
+      "traduccion": "bienvenido/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Herzlich willkommen!",
+          "es": "¡Bienvenido/a!"
+        }
+      ]
+    },
+    {
+      "id": 529,
+      "palabra": "wissen",
+      "traduccion": "saber",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "ich": "weiß",
+        "du": "weißt",
+        "er/sie/es": "weiß"
+      },
+      "ejemplos": [
+        {
+          "de": "Weißt du, wie er heißt?",
+          "es": "¿Sabes cómo se llama?"
+        }
+      ]
+    },
+    {
+      "id": 530,
+      "palabra": "wo",
+      "traduccion": "dónde",
+      "categoria": "fragewort",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Wo waren Sie im Urlaub?",
+          "es": "¿Dónde estuvo de vacaciones?"
+        },
+        {
+          "de": "Wo ist die Post?",
+          "es": "¿Dónde está correos?"
+        }
+      ]
+    },
+    {
+      "id": 531,
+      "palabra": "woher",
+      "traduccion": "de dónde",
+      "categoria": "fragewort",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Woher kommen Sie?",
+          "es": "¿De dónde viene?"
+        }
+      ]
+    },
+    {
+      "id": 532,
+      "palabra": "wohin",
+      "traduccion": "adónde",
+      "categoria": "fragewort",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Wohin fährt dieser Bus?",
+          "es": "¿Adónde va este autobús?"
+        }
+      ]
+    },
+    {
+      "id": 533,
+      "palabra": "wohnen",
+      "traduccion": "vivir / habitar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Ich wohne in München.",
+          "es": "Vivo en Múnich."
+        },
+        {
+          "de": "Seit wann haben Sie diese Wohnung?",
+          "es": "¿Desde cuándo tiene este piso?"
+        }
+      ]
+    },
+    {
+      "id": 534,
+      "palabra": "wollen",
+      "traduccion": "querer",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": {
+        "ich": "will",
+        "du": "willst",
+        "er/sie/es": "will",
+        "wir": "wollen",
+        "ihr": "wollt",
+        "sie/Sie": "wollen"
+      },
+      "ejemplos": [
+        {
+          "de": "Wollen Sie einen Kaffee trinken?",
+          "es": "¿Quiere tomar un café?"
+        },
+        {
+          "de": "Mein Sohn will Arzt werden.",
+          "es": "Mi hijo quiere ser médico."
+        }
+      ]
+    },
+    {
+      "id": 535,
+      "palabra": "zahlen",
+      "traduccion": "pagar",
+      "categoria": "verbo",
+      "nivel": "A1",
+      "conjugacion": "verbo regular",
+      "ejemplos": [
+        {
+          "de": "Zahlen, bitte!",
+          "es": "¡La cuenta, por favor!"
+        }
+      ]
+    },
+    {
+      "id": 536,
+      "palabra": "die Zeitung",
+      "traduccion": "el periódico",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Zeitungen",
+      "ejemplos": [
+        {
+          "de": "Ich lese gern Zeitung.",
+          "es": "Me gusta leer el periódico."
+        }
+      ]
+    },
+    {
+      "id": 537,
+      "palabra": "das Zimmer",
+      "traduccion": "la habitación",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Zimmer",
+      "ejemplos": [
+        {
+          "de": "Das Zimmer ist groß.",
+          "es": "La habitación es grande."
+        },
+        {
+          "de": "Ich habe ein Zimmer bestellt.",
+          "es": "He reservado una habitación."
+        }
+      ]
+    },
+    {
+      "id": 538,
+      "palabra": "zu",
+      "traduccion": "a / demasiado",
+      "categoria": "praposicion/adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ich bin zu Hause.",
+          "es": "Estoy en casa."
+        },
+        {
+          "de": "Das ist mir zu teuer.",
+          "es": "Eso me parece demasiado caro."
+        }
+      ]
+    },
+    {
+      "id": 539,
+      "palabra": "zufrieden",
+      "traduccion": "satisfecho/a / contento/a",
+      "categoria": "adjektiv",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Ich bin mit der Wohnung zufrieden.",
+          "es": "Estoy satisfecho con el piso."
+        }
+      ]
+    },
+    {
+      "id": 540,
+      "palabra": "der Zug",
+      "traduccion": "el tren",
+      "categoria": "sustantivo",
+      "nivel": "A1",
+      "plural": "Züge",
+      "ejemplos": [
+        {
+          "de": "Ich fahre gern mit dem Zug.",
+          "es": "Me gusta viajar en tren."
+        },
+        {
+          "de": "Wann kommt der nächste Zug?",
+          "es": "¿Cuándo sale el próximo tren?"
+        }
+      ]
+    },
+    {
+      "id": 541,
+      "palabra": "zurück",
+      "traduccion": "de vuelta / de regreso",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Einmal Frankfurt und zurück.",
+          "es": "Un billete a Frankfurt de ida y vuelta."
+        },
+        {
+          "de": "Wann kommst du zurück?",
+          "es": "¿Cuándo vuelves?"
+        }
+      ]
+    },
+    {
+      "id": 542,
+      "palabra": "zusammen",
+      "traduccion": "juntos/as / en total",
+      "categoria": "adverb",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Sollen wir zusammen essen gehen?",
+          "es": "¿Vamos a comer juntos?"
+        },
+        {
+          "de": "Das macht zusammen 2 Euro 80.",
+          "es": "En total son 2 euros 80."
+        }
+      ]
+    },
+    {
+      "id": 543,
+      "palabra": "zwischen",
+      "traduccion": "entre",
+      "categoria": "praposicion",
+      "nivel": "A1",
+      "ejemplos": [
+        {
+          "de": "Heidelberg liegt zwischen Frankfurt und Stuttgart.",
+          "es": "Heidelberg está entre Frankfurt y Stuttgart."
+        },
+        {
+          "de": "Zwischen 8 und 10 Uhr bin ich zu Hause.",
+          "es": "Entre las 8 y las 10 estoy en casa."
+        }
+      ]
+    }
+  ]
+}
