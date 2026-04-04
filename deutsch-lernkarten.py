@@ -24,8 +24,6 @@ def show_translation(word: dict) -> None:
         print(ejemplo["de"])
         print(ejemplo["es"])
         print()
-
-
     print("-" * 30)
 
 def save_difficulty(dif: int, word: dict) -> None:
