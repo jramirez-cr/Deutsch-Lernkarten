@@ -56,6 +56,17 @@ def main() -> None:
                 else:
                     print("No escriba nada, solo tecla enter.")
 
+            ask_difficulty: bool = True
+            while ask_difficulty:
+                difficulty: int = int(input("¿Sé la traducción de la palabra?\n"
+                                        "La recuerdo [1], Más o menos [2], No la recordé [3]\n"))
+                if difficulty < 1 or difficulty > 3:
+                    print("Opción incorrecta")
+                else:
+                    save_difficulty(difficulty, current_word)
+                    ask_difficulty = False
+
+
             new_word: str = input("Nueva palabra: enter. Terminar: escriba 'salir'\n")
 
             if new_word == "salir":
