@@ -28,6 +28,24 @@ def show_translation(word: dict) -> None:
 
     print("-" * 30)
 
+def save_difficulty(dif: int, word: dict) -> None:
+    try:
+        with open("progress.json", "r", encoding="utf-8") as file:
+            progress: list = json.load(file)
+    except FileNotFoundError:
+        progress = []
+
+    word_id:int = word["id"]
+
+    for i in progress:
+        if i["id"] == word_id:
+            i["difficulty"] = dif
+        else:
+            progress.append({"id": word_id, "difficulty": dif})
+
+    with open("progress.json", "w", encoding="utf-8") as file:
+        json.dump(progress, file, indent=4)
+
 def main() -> None:
     print("-" * 40)
     print("   Willkommen auf Deutsch-Lernkarten")
