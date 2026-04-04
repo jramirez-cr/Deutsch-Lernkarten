@@ -76,22 +76,27 @@ def main() -> None:
             ask_difficulty: bool = True
             while ask_difficulty:
                 difficulty: int = int(input("¿Sé la traducción de la palabra?\n"
-                                        "La recuerdo [1], Más o menos [2], No la recordé [3]\n"))
-                if difficulty < 1 or difficulty > 3:
-                    print("Opción incorrecta")
+                            "La recuerdo [1], Más o menos [2], No la recordé [3]\n"))
+                try:
+                    if difficulty < 1 or difficulty > 3:
+                        print("Opción incorrecta")
+                    else:
+                        save_difficulty(difficulty, current_word)
+                        ask_difficulty = False
+                except ValueError:
+                    print("Error: Entrada no es un numero.")
+
+            new_word_loop: bool = True
+            while new_word_loop:
+                new_word: str = input("Nueva palabra: enter. Terminar: escriba 'salir'\n")
+
+                if new_word == "salir":
+                    new_word_loop = False
+                    active = False
+                elif new_word == "":
+                    break
                 else:
-                    save_difficulty(difficulty, current_word)
-                    ask_difficulty = False
-
-
-            new_word: str = input("Nueva palabra: enter. Terminar: escriba 'salir'\n")
-
-            if new_word == "salir":
-                active = False
-            elif new_word == "":
-                continue
-            else:
-                print("Solo enter or 'salir'")
+                    print("Solo enter or 'salir'")
 
 if __name__ == "__main__":
     main()
