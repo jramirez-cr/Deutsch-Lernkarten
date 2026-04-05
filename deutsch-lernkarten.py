@@ -2,6 +2,7 @@ import json
 import random
 
 def load_progress() -> list:
+    """Loads the progress json file or creates a list"""
     try:
         with open("progress.json", "r", encoding="utf-8") as file:
             return json.load(file)
@@ -10,6 +11,7 @@ def load_progress() -> list:
         return []
 
 def build_weights(w_list: list[dict], progress) -> dict:
+    """Builds the weights of the words in the list"""
     weights: dict = {1:1, 2:3, 3:5}
     progress_map: dict = {item["id"]: item["difficulty"] for item in progress}
 
@@ -30,8 +32,6 @@ def get_word(w_list: list[dict], w_map: dict) -> dict:
             return word
 
     return random.choice(w_list)
-
-
 
 def show_translation(word: dict) -> None:
     """Shows the translation of the given word"""
