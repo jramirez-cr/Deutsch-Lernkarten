@@ -42,5 +42,37 @@
     {
         "id": 231,
         "difficulty": 3
+    },
+    {
+        "id": 433,
+        "difficulty": 3
+    },
+    {
+        "id": 322,
+        "difficulty": 1
+    },
+    {
+        "id": 441,
+        "difficulty": 3
+    },
+    {
+        "id": 2,
+        "difficulty": 2
+    },
+    {
+        "id": 452,
+        "difficulty": 3
+    },
+    {
+        "id": 397,
+        "difficulty": 1
+    },
+    {
+        "id": 431,
+        "difficulty": 1
+    },
+    {
+        "id": 6,
+        "difficulty": 3
     }
 ]

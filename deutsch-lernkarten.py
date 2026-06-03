@@ -4,7 +4,7 @@ import random
 def load_progress() -> list:
     """Loads the progress json file or creates a list"""
     try:
-        with open("progress.json", "r", encoding="utf-8") as file:
+        with open("data/progress.json", "r", encoding="utf-8") as file:
             return json.load(file)
 
     except FileNotFoundError:
@@ -65,7 +65,7 @@ def save_difficulty(dif: int, word: dict, progress: list) -> None:
     else:
         progress.append({"id": word["id"], "difficulty": dif})
 
-    with open("progress.json", "w", encoding="utf-8") as file:
+    with open("data/progress.json", "w", encoding="utf-8") as file:
         json.dump(progress, file, indent=4)
 
 def main() -> None:
@@ -75,7 +75,7 @@ def main() -> None:
     print("-" * 40)
     print()
 
-    with open("palabras_a1.json", "r", encoding="utf-8") as file:
+    with open("data/palabras_a1.json", "r", encoding="utf-8") as file:
         data: dict = json.load(file)
         word_list: list[dict] = data["palabras"]
 
