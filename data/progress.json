@@ -74,5 +74,9 @@
     {
         "id": 6,
         "difficulty": 3
+    },
+    {
+        "id": 297,
+        "difficulty": 1
     }
 ]
