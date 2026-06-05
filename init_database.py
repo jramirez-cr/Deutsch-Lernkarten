@@ -1,10 +1,10 @@
 import sqlite3
 
-#Create Table
+#Create Tables for the program
 
 create_palabras: str = """
 CREATE TABLE IF NOT EXISTS palabras (
-    id INTEGER NOT NULL PRIMARY KEY,
+    id INTEGER PRIMARY KEY,
     palabra TEXT NOT NULL,
     traduccion TEXT NOT NULL,
     categoria TEXT NOT NULL,
@@ -18,7 +18,7 @@ CREATE TABLE IF NOT EXISTS palabras (
 """
 create_conju: str = """
 CREATE TABLE IF NOT EXISTS conjugaciones (
-    id         INTEGER NOT NULL PRIMARY KEY, 
+    id         INTEGER PRIMARY KEY, 
     palabra_id INTEGER NOT NULL REFERENCES palabras(id) ON DELETE CASCADE,
     pronombre  TEXT    NOT NULL, 
     valor      TEXT    NOT NULL, 
@@ -29,7 +29,7 @@ CREATE TABLE IF NOT EXISTS conjugaciones (
 create_oraciones: str = """
 CREATE TABLE IF NOT EXISTS oraciones
 (
-    id         INTEGER NOT NULL PRIMARY KEY,
+    id         INTEGER PRIMARY KEY,
     palabra_id INTEGER NOT NULL REFERENCES palabras (id) ON DELETE CASCADE,
     texto_de   TEXT    NOT NULL,
     texto_es   TEXT    NOT NULL 
