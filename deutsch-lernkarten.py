@@ -15,7 +15,7 @@ def show_translation(word: dict) -> None:
             print("El verbo es regular\n")
 
     if word['plural'] is not None:
-        print(f"Plural:{word['plural']}\n")
+        print(f"Plural: {word['plural']}\n")
 
     print("Ejemplos:")
     for ejemplo in word["ejemplos"]:
