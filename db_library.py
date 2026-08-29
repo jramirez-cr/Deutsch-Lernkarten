@@ -5,16 +5,16 @@ import random
 DB_PATH: str = "data/lernkarten.db"
 WEIGHTS: dict[int, int] = {0:4, 1:1, 2:3, 3:5}
 
-def get_connection() -> sqlite3.Connection:
+def get_connection(db_path: str = DB_PATH) -> sqlite3.Connection:
     """Establish a connection to the database."""
-    connection = sqlite3.connect(DB_PATH)
+    connection = sqlite3.connect(db_path)
     connection.execute("PRAGMA foreign_keys = ON")
     connection.row_factory = sqlite3.Row
     return connection
 
 def next_word() -> dict:
     """Get the next word from the database."""
-    connection = get_connection()
+    connection = get_connection(DB_PATH)
     cursor = connection.cursor()
     cursor.execute("SELECT id, dificultad FROM palabras")
     rows = cursor.fetchall()
