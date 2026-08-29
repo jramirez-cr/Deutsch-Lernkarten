@@ -1,52 +1,20 @@
-import json
-import random
-
-def load_progress() -> list:
-    """Loads the progress JSON file or creates a list"""
-    try:
-        with open("data/progress.json", "r", encoding="utf-8") as file:
-            return json.load(file)
-
-    except FileNotFoundError:
-        return []
-
-def build_weights(w_list: list[dict], progress) -> dict:
-    """Builds the weights of the words in the list"""
-    weights: dict = {1:1, 2:3, 3:5}
-    progress_map: dict = {item["id"]: item["difficulty"] for item in progress}
-
-    weight_map:dict = {}
-    for word in w_list:
-        difficulty = progress_map.get(word["id"])
-        weight_map[word["id"]] = 5 if difficulty is None else weights[difficulty]
-    return weight_map
-
-def get_word(w_list: list[dict], w_map: dict) -> dict:
-    """Chooses a word from the list to be displayed"""
-    ids: list = list(w_map.keys())
-    weights: list = list(w_map.values())
-    selected_id: int = random.choices(ids, weights = weights, k=1)[0]
-
-    for word in w_list:
-        if word["id"] == selected_id:
-            return word
-
-    return random.choice(w_list)
+from db_library import next_word, update_difficulty
 
 def show_translation(word: dict) -> None:
     """Shows the translation of the given word"""
     print("-" * 30)
     print(f"{word['traduccion']}\n")
 
-    if 'conjugacion' in word:
-        if word['conjugacion'] == "verbo regular":
-            print("El verbo es regular.")
-        else:
+    if word["categoria"] == "verbo":
+        if 'conjugacion' in word:
             print("Conjugaciones irregulares:")
             for k, v in word["conjugacion"].items():
                 print(f"{k}: {v}")
             print()
-    if 'plural' in word:
+        else:
+            print("El verbo es regular\n")
+
+    if 'plural' in word is not None:
         print(f"Plural:{word['plural']}\n")
 
     print("Ejemplos:")
@@ -56,17 +24,7 @@ def show_translation(word: dict) -> None:
         print()
     print("-" * 30)
 
-def save_difficulty(dif: int, word: dict, progress: list) -> None:
-    """Saves the given difficulty of the given word"""
-    for i in progress:
-        if i["id"] == word["id"]:
-            i["difficulty"] = dif
-            break
-    else:
-        progress.append({"id": word["id"], "difficulty": dif})
 
-    with open("data/progress.json", "w", encoding="utf-8") as file:
-        json.dump(progress, file, indent=4)
 
 def main() -> None:
     """Main function"""
@@ -75,16 +33,10 @@ def main() -> None:
     print("-" * 40)
     print()
 
-    with open("data/palabras_a1.json", "r", encoding="utf-8") as file:
-        data: dict = json.load(file)
-        word_list: list[dict] = data["palabras"]
-
-    progress: list[dict] = load_progress()
-    weight_map: dict = build_weights(word_list, progress)
 
     active: bool = True
     while active:
-        current_word: dict = get_word(word_list, weight_map)
+        current_word: dict = next_word()
 
         print("Das wort ist:")
         print("-" * 30)
@@ -108,7 +60,7 @@ def main() -> None:
                 if difficulty < 1 or difficulty > 3:
                     print("Opción incorrecta")
                 else:
-                    save_difficulty(difficulty, current_word, progress)
+                    update_difficulty(current_word["id"], difficulty)
                     ask_difficulty = False
             except ValueError:
                 print("Error: Entrada no es un numero.")
