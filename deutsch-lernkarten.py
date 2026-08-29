@@ -2,7 +2,7 @@ import json
 import random
 
 def load_progress() -> list:
-    """Loads the progress json file or creates a list"""
+    """Loads the progress JSON file or creates a list"""
     try:
         with open("data/progress.json", "r", encoding="utf-8") as file:
             return json.load(file)
