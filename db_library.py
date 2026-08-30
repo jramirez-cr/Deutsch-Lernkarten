@@ -5,8 +5,11 @@ import random
 DB_PATH: str = "data/lernkarten.db"
 WEIGHTS: dict[int, int] = {0:4, 1:1, 2:3, 3:5}
 
-def get_connection(db_path: str = DB_PATH) -> sqlite3.Connection:
+def get_connection(db_path = None) -> sqlite3.Connection:
     """Establish a connection to the database."""
+    if db_path is None:
+        db_path = DB_PATH
+
     connection = sqlite3.connect(db_path)
     connection.execute("PRAGMA foreign_keys = ON")
     connection.row_factory = sqlite3.Row
