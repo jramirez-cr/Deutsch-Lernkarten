@@ -1,6 +1,6 @@
 import sqlite3
 import pytest
-from db_library import update_difficulty
+from db_library import update_difficulty, load_details
 from pathlib import Path
 from tests.conftest import insert_word
 
@@ -38,3 +38,14 @@ def test_update_difficulty_invalid_value_raises_error(test_db: Path) -> None:
     row = cursor.fetchone()
     connection.close()
     assert row[0] == 0
+
+def test_load_details_verb_returns_conjugations_and_examples(test_db: Path) -> None:
+    #Arrange
+    word_id = insert_word(test_db, "verbo_irregular_con_todo")
+
+    #Act
+    complete_word = load_details({"id" : word_id})
+    assert "ejemplos" in complete_word
+    assert len(complete_word["ejemplos"]) == 2
+    assert "conjugacion" in complete_word
+    assert complete_word["conjugacion"]["du"] == "fährst"
