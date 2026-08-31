@@ -66,6 +66,15 @@ TEST_WORDS = {
         "categoria": "adjetivo",
         "dificultad": 0,
     },
+    "verbo_regular": {
+        "palabra": "arbeiten",
+        "traduccion": "trabajar",
+        "categoria": "verbo",
+        "dificultad": 0,
+        "ejemplos": [
+            {"de": "Ich arbeite.", "es": "Trabajo."},
+        ],
+    },
 }
 
 def insert_word(db_path: pathlib.Path, scenario:str) -> int:
