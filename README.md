@@ -19,7 +19,8 @@ Current state: working CLI with SQLite persistence. Web version is planned.
 - SQLite for persistence
 - pytest and pytest-cov for testing and coverage
 - GitHub Actions for CI
-- 
+
+  
 
 ## Development Approach
 
