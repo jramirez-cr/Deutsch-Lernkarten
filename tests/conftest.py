@@ -87,6 +87,7 @@ def insert_word(db_path: pathlib.Path, scenario:str) -> int:
                       word["categoria"], word.get("plural"), word["dificultad"]))
 
     word_id = cursor.lastrowid #return value
+
     assert word_id is not None
 
     if "conjugacion" in word and isinstance(word["conjugacion"], dict):

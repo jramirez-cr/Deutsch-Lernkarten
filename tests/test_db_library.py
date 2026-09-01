@@ -1,6 +1,6 @@
 import sqlite3
 import pytest
-from db_library import update_difficulty, load_details
+from db_library import update_difficulty, load_details, next_word
 from pathlib import Path
 from tests.conftest import insert_word
 
@@ -76,3 +76,29 @@ def test_load_details_regular_verb_returns_examples_not_conjugations(test_db: Pa
     #Assert
     assert "conjugacion" not in verb
     assert len(verb["ejemplos"]) == 1
+
+def test_next_word_attributes_of_word_are_returned_correct(test_db: Path) -> None:
+    """Verifies that attributes of next word are returned correctly"""
+    #Arrange
+    word_id1 = insert_word(test_db, "sustantivo_nuevo")
+    word_id2 = insert_word(test_db, "sustantivo_nuevo")
+    word_id3 = insert_word(test_db, "sustantivo_nuevo")
+    word_id4 = insert_word(test_db, "sustantivo_nuevo")
+
+    ids = [word_id1, word_id2, word_id3, word_id4]
+
+    #Act
+    word = next_word()
+
+    #Assert
+    assert "id" in word
+    assert "palabra" in word
+    assert "traduccion" in word
+    assert "ejemplos" in word
+    assert word["id"] in ids
+
+
+
+
+
+
