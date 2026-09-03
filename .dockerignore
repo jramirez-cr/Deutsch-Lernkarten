@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.idea/
+
+# Testing artifacts
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Docker
+Dockerfile
+.dockerignore
+
+# CI
+.github/
+
+# Data (opcional - discutir abajo)
+data/*.db
+data/*.db-journal
+data/*.db-wal
+data/*.db-shm
